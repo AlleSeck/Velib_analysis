@@ -1,0 +1,1477 @@
+stationcode,name,capacity,coordonnees_geo,station_opening_hours,panne
+5016,Thouin - Cardinal Lemoine,0,"{'lon': 2.3494647851273465, 'lat': 48.84504716661511}",,True
+11025,Froment - Bréguet,0,"{'lon': 2.37289470306807, 'lat': 48.8570414504784}",,True
+16138,Saint-Cloud - Hippodrome,0,"{'lon': 2.2549109905958176, 'lat': 48.85772148887421}",,True
+10161,Gare de l'Est - Faubourg-Saint-Martin,0,"{'lon': 2.3594588041306, 'lat': 48.875642647477}",,True
+21328,Verger - Colonel Guichard,0,"{'lon': 2.2670380088932, 'lat': 48.816376985087}",,True
+5020,Institut du Monde Arabe - Saint-Germain,0,"{'lon': 2.3558086529374, 'lat': 48.849063299501}",,True
+18107,Chartres - La Charbonnière,0,"{'lon': 2.3534657, 'lat': 48.8847601}",,True
+11027,Saint-Ambroise - Parmentier,0,"{'lon': 2.3772348091006, 'lat': 48.862147844548}",,True
+15042,Henry Farman,0,"{'lon': 2.2713854536414146, 'lat': 48.83372430280548}",,True
+42706,Roger Salengro - Fontainebleau,0,"{'lon': 2.3611663654447, 'lat': 48.814548697325}",,True
+35010,Hoche - Jean Lolive,0,"{'lon': 2.402843534946442, 'lat': 48.89110239200789}",,True
+1119,Cossonnerie - Sébastopol,0,"{'lon': 2.349419631063938, 'lat': 48.86132665908402}",,True
+16108,Sablons - Georges Mandel,0,"{'lon': 2.28189, 'lat': 48.863875}",,True
+9005,Square d'Anvers,0,"{'lon': 2.3448844062122, 'lat': 48.882633484311}",,True
+11004,Charonne - Faubourg Saint-Antoine,2,"{'lon': 2.3740932717919, 'lat': 48.852191909696}",,False
+16124,Route de Sèvres - Porte de Bagatelle,0,"{'lon': 2.249415814876557, 'lat': 48.87525984132485}",,True
+13045,Jean Colly - Tolbiac,0,"{'lon': 2.3705490678548813, 'lat': 48.827817291597846}",,True
+14034,Ouest - Château,0,"{'lon': 2.319392143923804, 'lat': 48.83617286014242}",,True
+5119,Jussieu - Guy de la Brosse,0,"{'lon': 2.355653, 'lat': 48.845665}",,True
+31705,Champeaux - Gallieni,0,"{'lon': 2.4161778017878532, 'lat': 48.864459134684644}",,True
+41207,Place du Général de Gaulle,0,"{'lon': 2.4877332, 'lat': 48.8525288}",,True
+12011,Charenton - Place du Col Bourgoin,0,"{'lon': 2.3825789350545, 'lat': 48.844867319554}",,True
+22101,Gare Routière de Saint Cloud,0,"{'lon': 2.222245037555695, 'lat': 48.84288183896324}",,True
+2009,Filles Saint-Thomas - Place de la Bourse,1,"{'lon': 2.3397543845203, 'lat': 48.868899890853}",,False
+9115,Milton - Manuel,0,"{'lon': 2.341181, 'lat': 48.878249}",,True
+17047,Courcelles - Pierre Demours,0,"{'lon': 2.29858466343129, 'lat': 48.883769733273496}",,True
+17046,Mac-Mahon - Brey,0,"{'lon': 2.294512536052928, 'lat': 48.877532084130166}",,True
+17121,Square des Epinettes,0,"{'lon': 2.325953990221024, 'lat': 48.89383909781389}",,True
+20118,Orteaux - Mouraud,0,"{'lon': 2.408762907764669, 'lat': 48.85558642847872}",,True
+9117,Bellefond - Maubeuge,0,"{'lon': 2.3452642187476, 'lat': 48.878255397645}",,True
+9026,Jean-Baptiste Pigalle - La Bruyere,1,"{'lon': 2.333709173337285, 'lat': 48.87939826447722}",,False
+32015,Gare RER de Saint-Denis,0,"{'lon': 2.3471488058567047, 'lat': 48.93554324248177}",,True
+8019,Naples - Rome,0,"{'lon': 2.321358695626259, 'lat': 48.879960700846226}",,True
+42703,Fontainebleau - Edmond Michelet,0,"{'lon': 2.3626908659935, 'lat': 48.80956436844049}",,True
+18017,Caulaincourt - Place Constantin Pecqueur,0,"{'lon': 2.3381787144261, 'lat': 48.889677905028}",,True
+18137,Poissonniers - Nord,0,"{'lon': 2.3522228747606277, 'lat': 48.892511213520656}",,True
+31013,Centenaire - Sorins,0,"{'lon': 2.4273508787155156, 'lat': 48.85853523359734}",,True
+11003,Keller - La Roquette,0,"{'lon': 2.3752778, 'lat': 48.8555508}",,True
+41206,Place des Larris,0,"{'lon': 2.4780236, 'lat': 48.8568363}",,True
+8015,Roquépine - Malesherbes,0,"{'lon': 2.320404499769211, 'lat': 48.87345073390807}",,True
+31101,Jules Guesde - Laennec,0,"{'lon': 2.5006942078471184, 'lat': 48.87628983900398}",,True
+12129,Bois de Vincennes - Porte Jaune,0,"{'lon': 2.4605489149689674, 'lat': 48.838751246689455}",,True
+8011,Clapeyron - Moscou,0,"{'lon': 2.324815057218075, 'lat': 48.88078819514121}",,True
+9036,Athènes - Clichy,0,"{'lon': 2.32956021945824, 'lat': 48.878113787876}",,True
+17023,Porte d'Asnières,0,"{'lon': 2.3036286234855656, 'lat': 48.89035817610495}",,True
+13109,Brillat-Savarin - Küss,0,"{'lon': 2.350422, 'lat': 48.822203}",,True
+21217,Louis Rolland - République,0,"{'lon': 2.3193106434955717, 'lat': 48.81710889740748}",,True
+10165,Gare de l'Est - Place du 11 Novembre 1918,0,"{'lon': 2.3585464, 'lat': 48.876327}",,True
+13128,Quai de la Gare - Pont de Bercy,1,"{'lon': 2.3740861260598, 'lat': 48.83730787972}",,False
+17204,Paul Bodin - Clichy,1,"{'lon': 2.3171403311203, 'lat': 48.892594758409}",,False
+8116,Champs-Elysees - Bassano,0,"{'lon': 2.300238981843, 'lat': 48.871811807816}",,True
+5024,Place Monge,0,"{'lon': 2.3524079471827, 'lat': 48.842761803051}",,True
+10021,Marché Saint-Quentin,0,"{'lon': 2.3545114456374, 'lat': 48.877356057652}",,True
+15129,Hôpital Necker,0,"{'lon': 2.313245013356209, 'lat': 48.846043490118454}",,True
+21315,Jules Guesdes - Général de Gaulle,0,"{'lon': 2.278934195637703, 'lat': 48.81930581291959}",,True
+21303,Jean Monnet - Iles,0,"{'lon': 2.2497073194874866, 'lat': 48.823393984057304}",,True
+14001,Edgar Quinet - Gaité,0,"{'lon': 2.324595451355, 'lat': 48.841160928966}",,True
+26004,Gare RER les Grésillons,0,"{'lon': 2.31458459136273, 'lat': 48.919898633572764}",,True
+4006,Bourdon - Pont Morland,0,"{'lon': 2.3659356, 'lat': 48.8478103}",,True
+22301,Chausson - Gabriel Péri,0,"{'lon': 2.2952306270599365, 'lat': 48.921891003481115}",,True
+20006,Pyrénées - Plaine,0,"{'lon': 2.4062821269035, 'lat': 48.85026702458}",,True
+21953,Gare de Bellevue,0,"{'lon': 2.2295309230685234, 'lat': 48.8192404685572}",,True
+4103,Archives - Rivoli,0,"{'lon': 2.3539767041802, 'lat': 48.857346707443}",,True
+19129,Solitaires - Place des Fêtes,0,"{'lon': 2.391769, 'lat': 48.876601}",,True
+22503,Joffre - Aigle,0,"{'lon': 2.245096, 'lat': 48.904033}",,True
+22306,Place du 17 Octobre,0,"{'lon': 2.2978286134199792, 'lat': 48.91962690034779}",,True
+3003,Fille du Calvaire - Turenne,0,"{'lon': 2.3649600148200993, 'lat': 48.86210505412563}",,True
+4018,Saint-Bon - Rivoli,0,"{'lon': 2.3502172809763, 'lat': 48.857999643315}",,True
+23107,Gare de Sèvres - Ville d'Avray,0,"{'lon': 2.2001516849313, 'lat': 48.826262366227}",,True
+43403,Gare RER - Canadiens,0,"{'lon': 2.349903434515, 'lat': 48.852969123137}",,True
+3007,Archives - Pastourelle,0,"{'lon': 2.3595041, 'lat': 48.8623615}",,True
+21119,Belfort - Victor Hugo,0,"{'lon': 2.3172724, 'lat': 48.9018492}",,True
+16010,Belles Feuilles - Place de Mexico,0,"{'lon': 2.2829206287861, 'lat': 48.865804746474}",,True
+19046,Porte de Pantin.,0,"{'lon': 2.3950181901455, 'lat': 48.889199725577}",,True
+34013,Blanqui - Docteur Bauer,0,"{'lon': 2.3407192814591, 'lat': 48.907735489085}",,True
+21011,Silly - Louis Blériot,0,"{'lon': 2.2340199351310734, 'lat': 48.83219045374266}",,True
+42022,Gare RER - Maurice Grandcoing,0,"{'lon': 2.392429, 'lat': 48.813881}",,True
+14004,Port Royal - Hôpital Cochin,0,"{'lon': 2.3406994164846, 'lat': 48.838608030238}",,True
+35013,Guillaume Tell - Parc Henri Barbusse,0,"{'lon': 2.4198862910270695, 'lat': 48.88958925894009}",,True
+13036,Olympiades,6,"{'lon': 2.3650860786438, 'lat': 48.826764665199}",,False
+43004,Montreuil - République,0,"{'lon': 2.4345204234123234, 'lat': 48.85026349463687}",,True
+5033,Saint-Séverin - Saint-Michel,0,"{'lon': 2.3440927639604, 'lat': 48.852731305488}",,True
+17110,Legendre - Nollet,2,"{'lon': 2.320293079881375, 'lat': 48.887742186754224}",,False
+18101,Championnet.,0,"{'lon': 2.3498166, 'lat': 48.8953643}",,True
+6028,Quatre Vents - Carrefour de l'Odéon,0,"{'lon': 2.338161695134053, 'lat': 48.851751374458864}",,True
+13055,M.- A. Lagroua Weill-Hallé -  F. Dolto,0,"{'lon': 2.380220606266108, 'lat': 48.828595283857425}",,True
+10038,Place du Colonel Fabien,0,"{'lon': 2.3698791861534, 'lat': 48.87756832086}",,True
+17126,Hélène et François Missoffe - Emile Borel,0,"{'lon': 2.321543991674844, 'lat': 48.89990653843488}",,True
+34005,Adrien Lesesne - Docteur Bauer,0,"{'lon': 2.348248063431511, 'lat': 48.90263867304635}",,True
+7023,Bourdonnais - Tour Eiffel,0,"{'lon': 2.295599598447, 'lat': 48.860897797941}",,True
+1003,Saint-Denis - Rivoli,0,"{'lon': 2.3476943001151, 'lat': 48.859059340842}",,True
+21404,Jean Jaurès - Gare de Clamart,0,"{'lon': 2.2716768079163, 'lat': 48.81321981219}",,True
+12010,Daumesnil - Picpus,0,"{'lon': 2.401765, 'lat': 48.8374688}",,True
+4104,Sebastopol - Rambuteau,1,"{'lon': 2.3501381278038, 'lat': 48.86181809267}",,False
+14014,Jourdan - Stade Charléty,0,"{'lon': 2.3433353751898, 'lat': 48.819428333369}",,True
+13007,Le Brun - Gobelins,0,"{'lon': 2.3534681351338, 'lat': 48.835092787824}",,True
+30002,Jean Rostand - Paul Vaillant Couturier,0,"{'lon': 2.4530601033354, 'lat': 48.908168131015}",,True
+22207,Rond-point du Dr Albert Schweitzer,0,"{'lon': 2.3143940046429634, 'lat': 48.78980918988166}",,True
+31103,Gare Rosny-Bois-Perrier,0,"{'lon': 2.480436824262142, 'lat': 48.88115023337061}",,True
+9014,Faubourg Montmartre - La Fayette,0,"{'lon': 2.3408536612988, 'lat': 48.875254549053}",,True
+19003,Quai de la Seine,0,"{'lon': 2.3703941702842717, 'lat': 48.884492238407525}",,True
+12151,Gare de Lyon - Place Louis Armand,0,"{'lon': 2.3726498446286, 'lat': 48.845515089794}",,True
+10107,Gare du Nord - Hôpital Lariboisière,0,"{'lon': 2.352339, 'lat': 48.881949}",,True
+31022,Mairie de Montreuil,0,"{'lon': 2.440614402294159, 'lat': 48.86131452758348}",,True
+46002,Rouget de Lisle,0,"{'lon': 2.4071189761161804, 'lat': 48.764615483395254}",,True
+19120,Carducci - Place Hannah Arendt,0,"{'lon': 2.3860743641853337, 'lat': 48.877436681515796}",,True
+14003,Schoelcher - Raspail,0,"{'lon': 2.3312794080411474, 'lat': 48.83681733526843}",,True
+5018,Mutualité,2,"{'lon': 2.3502873256803, 'lat': 48.848225572724}",,False
+12114,Victor Hugo - Jeanne Jugan,0,"{'lon': 2.415081394834419, 'lat': 48.843949064031825}",,True
+14012,Sibelle - Alésia,0,"{'lon': 2.3384983465075493, 'lat': 48.826701758539215}",,True
+15110,Place Robert Guillemard,0,"{'lon': 2.2811267160086417, 'lat': 48.836191728066666}",,True
+22203,Tertres - Fontaine,0,"{'lon': 2.306235730648041, 'lat': 48.787553654715644}",,True
+35020,Marcelle - Thalie,0,"{'lon': 2.4137883, 'lat': 48.8835462}",,True
+19032,Villette - Belleville,0,"{'lon': 2.376461327076, 'lat': 48.8726877314}",,True
+11024,Mairie du 11ème,0,"{'lon': 2.3789759, 'lat': 48.858925}",,True
+31010,Stalingrad - Désiré Chevalier,0,"{'lon': 2.445072233676911, 'lat': 48.85670169739857}",,True
+21313,Guynemer - Séverine,0,"{'lon': 2.2790706530213356, 'lat': 48.83091743371036}",,True
+18141,Clignancourt - Sofia,0,"{'lon': 2.34719488842051, 'lat': 48.88511992309783}",,True
+20040,Parc de Belleville - Julien Lacroix,0,"{'lon': 2.3842214, 'lat': 48.8703459}",,True
+15108,Lourmel - Marie Skobtsov,4,"{'lon': 2.287283, 'lat': 48.844974}",,False
+6107,Place Alphonse Deville,0,"{'lon': 2.3275961726904, 'lat': 48.850188262662}",,True
+16112,Chernoviz - Raynouard,0,"{'lon': 2.282173218142987, 'lat': 48.8569864146289}",,True
+45001,Hôtel de Ville de Champigny sur Marne,0,"{'lon': 2.5096759200096, 'lat': 48.813810628405}",,True
+20202,Dupont de l'Eure - Gambetta,0,"{'lon': 2.4003649, 'lat': 48.8679385}",,True
+5019,Poissy - Saint-Germain,0,"{'lon': 2.3529685288668, 'lat': 48.84969649427}",,True
+23105,Sèvres Rive Gauche,0,"{'lon': 2.2150785306885, 'lat': 48.821443218278}",,True
+14125,Dareau - Broussais,0,"{'lon': 2.3361804, 'lat': 48.8307758}",,True
+44103,Pont De Charenton,0,"{'lon': 2.4199531, 'lat': 48.8179685}",,True
+10039,Sambre et Meuse - Villette,0,"{'lon': 2.3738072379951, 'lat': 48.874405666217}",,True
+13020,Paul Klee - Place Augusta Holmes,0,"{'lon': 2.3704235663952966, 'lat': 48.838946417408025}",,True
+20004,Commandant l'Herminier - Gallieni,0,"{'lon': 2.4160453677177, 'lat': 48.847040552603}",,True
+17029,Pierre Demours - Laugier,0,"{'lon': 2.294846, 'lat': 48.8813072}",,True
+21118,Neuilly - Petit,0,"{'lon': 2.29627937078476, 'lat': 48.898965361341254}",,True
+12006,Gare de Lyon - Van Gogh,0,"{'lon': 2.3704450240357, 'lat': 48.843839785643}",,True
+16014,Eylau - Trocadéro,0,"{'lon': 2.2864209115505, 'lat': 48.863354122371}",,True
+13039,Ivry - Simone Weil,0,"{'lon': 2.3659095168113713, 'lat': 48.823283932030755}",,True
+15043,Brancion - Lefebvre,0,"{'lon': 2.301431038163409, 'lat': 48.82900222785569}",,True
+21955,Vaugirard - Verrerie,0,"{'lon': 2.2367222622987, 'lat': 48.820881336842}",,True
+5014,Jean Calvin - Tournefort,0,"{'lon': 2.348489575088024, 'lat': 48.84158856925782}",,True
+19108,Gaston Tessier - Rosa Parks RER,2,"{'lon': 2.3743692, 'lat': 48.8963765}",,False
+22206,Louis Pasteur - Albert Petit,0,"{'lon': 2.317289, 'lat': 48.796261}",,True
+21319,Esplanade du Foncet - Camille Desmoulins,0,"{'lon': 2.2606857866048813, 'lat': 48.827090233494964}",,True
+18030,Joseph Dijon - Ornano,0,"{'lon': 2.3476678133010864, 'lat': 48.89374453351521}",,True
+92006,Place Nelson Mandela,0,"{'lon': 2.2182820737361912, 'lat': 48.897874318180556}",,True
+9011,Geoffroy - Marie,0,"{'lon': 2.344513876337893, 'lat': 48.873781940593325}",,True
+13025,Place de Rungis,3,"{'lon': 2.347382729482953, 'lat': 48.82245594764965}",,False
+15039,Abbé Groult - Convention,0,"{'lon': 2.302064039509349, 'lat': 48.83596927866069}",,True
+20105,Benoît Frachon - République,0,"{'lon': 2.415605485439301, 'lat': 48.85230729014318}",,True
+14032,Mairie du 14ème,5,"{'lon': 2.3254923149943, 'lat': 48.83254578123}",,False
+41401,Marne - Charles de Gaulle,0,"{'lon': 2.4121668934822087, 'lat': 48.815071719544434}",,True
+3102,Bourg l'Abbé - Saint-Martin,0,"{'lon': 2.352406270802021, 'lat': 48.86393331949257}",,True
+15001,Gare Montparnasse - Arrivée,0,"{'lon': 2.3225811123848, 'lat': 48.843827994315}",,True
+44014,Camille Risch - Paul Armangot,0,"{'lon': 2.373685, 'lat': 48.774703}",,True
+21026,Sèvres - Général Leclerc,0,"{'lon': 2.2314262390137, 'lat': 48.830121559055}",,True
+1102,Française - Etienne Marcel,0,"{'lon': 2.347587011754513, 'lat': 48.864053304653766}",,True
+2002,Etienne Marcel - Montorgueil,0,"{'lon': 2.3461959511041637, 'lat': 48.86450567259199}",,True
+5122,Saint-Michel - Luxembourg,0,"{'lon': 2.3394941166043, 'lat': 48.84501507626}",,True
+21505,Édouard Vaillant - Place Jean Jaurès,0,"{'lon': 2.2089037319128613, 'lat': 48.86265537999924}",,True
+16201,Porte Dauphine,0,"{'lon': 2.2749781616017, 'lat': 48.871139344351}",,True
+10201,Magenta - Chabrol,0,"{'lon': 2.3560990020633, 'lat': 48.876495350882}",,True
+12202,Charenton - Wattignies,0,"{'lon': 2.3916775206425, 'lat': 48.836919119234}",,True
+42030,Stéphanie Bouvard - Gambetta,0,"{'lon': 2.4024386957288, 'lat': 48.814548138856}",,True
+19121,Belleville -  Pré Saint-Gervais,0,"{'lon': 2.3930460959673, 'lat': 48.875565910073}",,True
+21002,Place Denfert-Rochereau,0,"{'lon': 2.245987951755524, 'lat': 48.843252536286684}",,True
+24004,Paix - Verdun,0,"{'lon': 2.261173, 'lat': 48.900504}",,True
+23041,Général Leclerc - Bièvre,0,"{'lon': 2.3166695237159733, 'lat': 48.782414428747316}",,True
+17117,Pereire - Saussure,0,"{'lon': 2.3101296275854, 'lat': 48.888229075478}",,True
+21218,Gabriel Péri - Place de la Libération,0,"{'lon': 2.3117361743705, 'lat': 48.819828421929}",,True
+16033,Marché d'Auteuil,4,"{'lon': 2.265253821160005, 'lat': 48.84842761367387}",,False
+28002,De Gaule - Moulin,0,"{'lon': 2.229607694148, 'lat': 48.885816808239}",,True
+5105,Geoffroy-Saint-Hilaire - Saint-Marcel,0,"{'lon': 2.356877340669728, 'lat': 48.83907826424974}",,True
+6009,Guynemer - Jardin du Luxembourg,0,"{'lon': 2.3325478, 'lat': 48.8466127}",,True
+17050,Batignolles - Abel Truchet,0,"{'lon': 2.3238347490884, 'lat': 48.883103904582}",,True
+8031,Jean Mermoz - Champs-Elysées,0,"{'lon': 2.3107324540615, 'lat': 48.869689856852}",,True
+12157,Fabre d'Eglantine - Place de la Nation,0,"{'lon': 2.3956204, 'lat': 48.8471116}",,True
+18205,Mauroy - Cheminots,0,"{'lon': 2.357895075822, 'lat': 48.897715198403}",,True
+4108,Quai de Béthune - Pont de la Tournelle,0,"{'lon': 2.3563072085381, 'lat': 48.85097433194}",,True
+40003,Centre Hospitalier Intercommunal de Créteil,0,"{'lon': 2.463801423807, 'lat': 48.797078298909}",,True
+14021,Place de la Porte de Châtillon,0,"{'lon': 2.3186306, 'lat': 48.8242469}",,True
+51005,Yves Farges - Route d'Enghien,0,"{'lon': 2.2834496977978, 'lat': 48.95756799268}",,True
+41301,Bois de Vincennes - Gare,0,"{'lon': 2.470833995083, 'lat': 48.836022242887}",,True
+21021,Enfants du Paradis - Peupliers,0,"{'lon': 2.2571459412575, 'lat': 48.833122686454}",,True
+21010,Silly - Galliéni,0,"{'lon': 2.2325500845909, 'lat': 48.835583838706}",,True
+7003,Square Boucicaut,0,"{'lon': 2.325061820447445, 'lat': 48.851296433665276}",,True
+40016,Sarrazins - Saussure,0,"{'lon': 2.4717841148376, 'lat': 48.769626617432}",,True
+19033,Cambrai - Benjamin Constant,1,"{'lon': 2.381133802246315, 'lat': 48.89594736851349}",,False
+92002,Théâtre des Amandiers - Palais des sports,0,"{'lon': 2.2136941552162, 'lat': 48.892648526839}",,True
+8048,Marceau - Chaillot,0,"{'lon': 2.2986030816809, 'lat': 48.868834023334}",,True
+9038,Douai - Bruxelles,0,"{'lon': 2.3308449949028507, 'lat': 48.88320784122797}",,True
+18203,Lamarck - Saint-Ouen,0,"{'lon': 2.3272445342326, 'lat': 48.891334555236}",,True
+92007,Pesaro - Préfecture,0,"{'lon': 2.223908342421055, 'lat': 48.89577046284005}",,True
+11023,Saint-Maur - Roquette,0,"{'lon': 2.383553994571467, 'lat': 48.858688774062955}",,True
+21212,Marne - Germain Dardan,0,"{'lon': 2.3035024699104, 'lat': 48.81217465201}",,True
+8017,Rocher - Laborde,0,"{'lon': 2.322616316378116, 'lat': 48.87590240712654}",,True
+14106,Marc Sangnier - Porte de Vanves,0,"{'lon': 2.3107116669416428, 'lat': 48.825218683556734}",,True
+8045,Place de la Reine Astrid,0,"{'lon': 2.3025491823859, 'lat': 48.864920982538}",,True
+17013,Legendre - Dulong,0,"{'lon': 2.316423766314984, 'lat': 48.885325169402904}",,True
+7102,Mairie du 7ème,0,"{'lon': 2.3192664, 'lat': 48.8577967}",,True
+42504,Gare RER de Gentilly,0,"{'lon': 2.3410347104072575, 'lat': 48.814280450380224}",,True
+18201,Tristan Tzara -  Tchaïkovski,0,"{'lon': 2.3648490384221077, 'lat': 48.89490221746837}",,True
+18012,Stephenson - Doudeauville,2,"{'lon': 2.3561610281467438, 'lat': 48.888537048944826}",,False
+16121,Jardin d'Acclimatation,0,"{'lon': 2.270772233605385, 'lat': 48.878772242510465}",,True
+33009,Félix Faure - Sadi Carnot,0,"{'lon': 2.378623187541962, 'lat': 48.90812110228388}",,True
+18005,Tardieu - Chappe,0,"{'lon': 2.341845408082, 'lat': 48.884146759782}",,True
+2010,Uzès - Montmartre,0,"{'lon': 2.3431010171771054, 'lat': 48.870790980240706}",,True
+13102,Pitié-Salpêtrière,0,"{'lon': 2.365213818848133, 'lat': 48.83748810318667}",,True
+10015,Lucien Sampaix - Récollets,0,"{'lon': 2.3621229082345963, 'lat': 48.874330377560476}",,True
+22001,Château - Bineau,0,"{'lon': 2.270106375217438, 'lat': 48.890404028589806}",,True
+31007,Paris - Désiré Préaux,25,"{'lon': 2.4323049187660217, 'lat': 48.85742876694898}",,False
+19040,Belleville - Télégraphe,0,"{'lon': 2.3995549, 'lat': 48.8756045}",,True
+18029,Emile Blemont - Poteau,0,"{'lon': 2.3415122, 'lat': 48.8943782}",,True
+35017,Toffier Decaux - Cartier Bresson,0,"{'lon': 2.4017545580863957, 'lat': 48.90165072551549}",,True
+14002,Edgar Quinet - Raspail,0,"{'lon': 2.32971478253603, 'lat': 48.83940266673835}",,True
+18033,Belliard - Damrémont,0,"{'lon': 2.338023450388167, 'lat': 48.89669238777841}",,True
+9017,Lallier - Trudaine,0,"{'lon': 2.3408224806189537, 'lat': 48.88109246617963}",,True
+13010,Place d'Italie - Vincent Auriol,0,"{'lon': 2.3567550292319, 'lat': 48.831481874467}",,True
+17016,Brochant - Square des Batignolles,0,"{'lon': 2.316861143151153, 'lat': 48.88818698581028}",,True
+18019,Square Raymond Souplex,4,"{'lon': 2.335426103165901, 'lat': 48.89183721478911}",,False
+20103,Le Vau - Maurice Bertaux,0,"{'lon': 2.411030612453627, 'lat': 48.86803439043193}",,True
+12154,Square Georges Melies,0,"{'lon': 2.409667745232582, 'lat': 48.84070239213081}",,True
+16041,Versailles - Claude Terrasse,0,"{'lon': 2.263834191153, 'lat': 48.840219338074}",,True
+23005,Gare de Clichy-Levallois,0,"{'lon': 2.2984680533409123, 'lat': 48.89679827481989}",,True
+20039,Belleville - Couronnes,0,"{'lon': 2.3809862136841, 'lat': 48.868831082877}",,True
+44002,Paul Vaillant-Couturier - Gare RER,0,"{'lon': 2.402097210288048, 'lat': 48.80108159069614}",,True
+31025,Paul Signac - Aristide Briand,0,"{'lon': 2.4502260982990265, 'lat': 48.86950262156371}",,True
+17015,Place de Lévis,0,"{'lon': 2.3131933808326726, 'lat': 48.883546851533254}",,True
+4002,Marché aux fleurs,0,"{'lon': 2.3473754525185, 'lat': 48.855258115391}",,True
+17003,Jacques Kellner - Saint-Ouen,5,"{'lon': 2.327897409164145, 'lat': 48.895809485802886}",,False
+15311,Quai du Président Roosevelt - Pont Aval,0,"{'lon': 2.2656820714473724, 'lat': 48.8343883676388}",,True
+44016,Balzac - Olympes de Gouges,0,"{'lon': 2.4006786569952965, 'lat': 48.77850332486751}",,True
+9006,Dunkerque - Trudaine,0,"{'lon': 2.3463253676891327, 'lat': 48.88215166773376}",,True
+10008,Cité Riverin - Château d'Eau,0,"{'lon': 2.358739863900845, 'lat': 48.870702423554306}",,True
+8117,Place de la Madeleine - Royale,0,"{'lon': 2.324421107769, 'lat': 48.869228052648}",,True
+18202,Diane Arbus,0,"{'lon': 2.3524022474885, 'lat': 48.898800717199}",,True
+9009,Square Montholon,0,"{'lon': 2.3457641154527664, 'lat': 48.876620377545024}",,True
+4014,Blancs-Manteaux - Archives,0,"{'lon': 2.3559471219778, 'lat': 48.85941800703}",,True
+19012,Lally-Tollendal - Armand Carrel,0,"{'lon': 2.374717555940151, 'lat': 48.88270066221072}",,True
+42704,Mairie du Kremlin-Bicêtre,0,"{'lon': 2.3570189997553825, 'lat': 48.81191981537702}",,True
+1012,Jean-Jacques Rousseau - Deux Ecus,0,"{'lon': 2.3414635285735126, 'lat': 48.86297805972131}",,True
+12166,Parc Floral du Bel Air,25,"{'lon': 2.438560165464878, 'lat': 48.839285711865735}",,False
+22603,Place de la Division Leclerc,1,"{'lon': 2.2731140430551027, 'lat': 48.793824988636516}",,False
+17202,Mariotte - Batignolles,0,"{'lon': 2.321469503475, 'lat': 48.884571659595}",,True
+8018,Saint-Augustin,0,"{'lon': 2.319786250591278, 'lat': 48.8762009747008}",,True
+21329,Gare - Aristide Briand,0,"{'lon': 2.2555950104387, 'lat': 48.821410564722}",,True
+14005,René Coty - Place Denfert-Rochereau,0,"{'lon': 2.3329411447048, 'lat': 48.833056477316}",,True
+6020,Place Saint-André des Arts,0,"{'lon': 2.3426544293761, 'lat': 48.852886173881}",,True
+22703,Place Jean Mermoz,0,"{'lon': 2.2718348, 'lat': 48.9220937}",,True
+19204,Rampal - Belleville,0,"{'lon': 2.3798409114805, 'lat': 48.873114661405}",,True
+11014,Place de la Nation - Taillebourg,0,"{'lon': 2.3973043, 'lat': 48.8488408}",,True
+35002,Jean Jaurès - Presles,0,"{'lon': 2.3960057280531, 'lat': 48.907134414988}",,True
+15122,Place Charles Vallin,0,"{'lon': 2.3025986552238, 'lat': 48.835523812041}",,True
+27004,Gare de la Garenne-Colombes,0,"{'lon': 2.239145, 'lat': 48.909752}",,True
+7002,Vaneau - Sèvres,0,"{'lon': 2.3204218259346, 'lat': 48.848563233059}",,True
+16110,Octave Feuillet - Albéric Magnard,0,"{'lon': 2.2730283066630363, 'lat': 48.86106902949534}",,True
+41303,Gare de Nogent-le-Perreux,0,"{'lon': 2.493693307042122, 'lat': 48.83842553348809}",,True
+13104,Gare d'Austerlitz - Quai Saint-Bernard,0,"{'lon': 2.3657163977623, 'lat': 48.84369030864}",,True
+9022,Rossini - Laffitte,0,"{'lon': 2.337980867701675, 'lat': 48.87334627510507}",,True
+8010,Liège - Moscou,0,"{'lon': 2.3264628, 'lat': 48.8795431}",,True
+11026,Chemin Vert - Saint-Maur,0,"{'lon': 2.381299026310444, 'lat': 48.86112461407359}",,True
+15021,Joseph Liouville - Croix Nivert,0,"{'lon': 2.297508493065834, 'lat': 48.844835471244416}",,True
+1013,Place du Palais Royal,0,"{'lon': 2.3384822532535, 'lat': 48.862382970647}",,True
+41402,Victor Hugo - Ecoles,0,"{'lon': 2.4180373930262093, 'lat': 48.80476007936134}",,True
+11036,Jules Ferry - Faubourg du Temple Paris,0,"{'lon': 2.3678933, 'lat': 48.868397}",,True
+15025,Dupleix - du Guesclin,0,"{'lon': 2.296709530055523, 'lat': 48.85147910413369}",,True
+12013,Montgallet - Reuilly,0,"{'lon': 2.3896481, 'lat': 48.844291}",,True
+15033,Place Violet,0,"{'lon': 2.2905756533145905, 'lat': 48.84487893836502}",,True
+20132,Réunion - Avron,0,"{'lon': 2.403928068708116, 'lat': 48.852566752033766}",,True
+21502,Verdun - Place Henri IV,0,"{'lon': 2.2277003154158592, 'lat': 48.870797375639214}",,True
+35019,Anatole France - Jean Lolive,0,"{'lon': 2.4253764, 'lat': 48.8949922}",,True
+15017,Place Falguière,0,"{'lon': 2.3104464635252953, 'lat': 48.83629973941847}",,True
+43006,Vignerons - Minimes,0,"{'lon': 2.430793, 'lat': 48.841486}",,True
+8012,Batignolles - Place de Clichy,0,"{'lon': 2.326493114233, 'lat': 48.883474535757}",,True
+17124,Porte de Saint-Ouen - Henri Huchard,0,"{'lon': 2.3295360803604126, 'lat': 48.898708366365064}",,True
+18025,Mairie du 18ème,0,"{'lon': 2.3445510864257812, 'lat': 48.892939296937605}",,True
+20023,Pelleport - Belgrand,0,"{'lon': 2.403980836377493, 'lat': 48.86500081847653}",,True
+15031,Théâtre - Lourmel,0,"{'lon': 2.2898658737540245, 'lat': 48.8482070397636}",,True
+15002,Maine - Antoine Bourdelle,0,"{'lon': 2.320263946784738, 'lat': 48.84308531746595}",,True
+21310,Kléber - Gouverneur Général Eboué,0,"{'lon': 2.2723413258790965, 'lat': 48.826885843069796}",,True
+20201,Eugène Reisz - Davout,0,"{'lon': 2.410396970808506, 'lat': 48.85631874632638}",,True
+13046,Eugène Oudiné - Dessous Des Berges,2,"{'lon': 2.3750226, 'lat': 48.8256423}",,False
+4013,Vieille du Temple - Francs Bourgeois,6,"{'lon': 2.35821794718504, 'lat': 48.858256413365815}",,False
+47002,Les Juilliottes,0,"{'lon': 2.4437362, 'lat': 48.8043072}",,True
+11044,Square du Bataclan,0,"{'lon': 2.3711327, 'lat': 48.8633762}",,True
+8029,Place du Canada,0,"{'lon': 2.3101937879648, 'lat': 48.865346269363}",,True
+48009,République - Auguste Perret,0,"{'lon': 2.3518594354391094, 'lat': 48.78695280952244}",,True
+92005,Gare de Nanterre Ville,0,"{'lon': 2.1957932, 'lat': 48.8950295}",,True
+35004,Place du Président Salvador Allende,0,"{'lon': 2.40079153681279, 'lat': 48.897307310356055}",,True
+31707,Edouard Vaillant - Galliéni,0,"{'lon': 2.4147954583168, 'lat': 48.858462881661}",,True
+12150,Bastille - Quai de la Rapée,0,"{'lon': 2.3669364675879, 'lat': 48.84682410855}",,True
+21115,Chancé Milly - Cimetière Communal Sud,0,"{'lon': 2.303922325372696, 'lat': 48.89687189382465}",,True
+16115,Raffet - Montmorency,0,"{'lon': 2.2629252456151954, 'lat': 48.85258670812}",,True
+21030,Fessart - Château,0,"{'lon': 2.23989, 'lat': 48.84245}",,True
+16002,Pergolèse - Malakoff,0,"{'lon': 2.2842781618237495, 'lat': 48.87521088779225}",,True
+17119,Toqueville - Cardinet,4,"{'lon': 2.3109393194317818, 'lat': 48.88490187110713}",,False
+31005,Square Denise Buisson,0,"{'lon': 2.426436245441437, 'lat': 48.8562322730982}",,True
+10024,Buisson Saint-Louis - Saint-Maur,0,"{'lon': 2.372252832879, 'lat': 48.871746849303}",,True
+20022,Porte de Bagnolet,0,"{'lon': 2.408344637349607, 'lat': 48.864707139122984}",,True
+12036,Reuilly - Place Felix Eboue,0,"{'lon': 2.394630398715453, 'lat': 48.84030274499962}",,True
+18139,Poissonniers - Championnet,28,"{'lon': 2.3530178144574165, 'lat': 48.89543299733937}",,False
+11112,Jules Vallès - Charonne,0,"{'lon': 2.3847674578428, 'lat': 48.854284379935}",,True
+19201,Petit - Georges Thill,0,"{'lon': 2.3895753175020222, 'lat': 48.88603131999171}",,True
+10009,Mairie du 10ème,0,"{'lon': 2.3575825989246, 'lat': 48.872089449907}",,True
+10027,Dunkerque - Alsace,0,"{'lon': 2.358379, 'lat': 48.879355}",,True
+12020,Cours de Vincennes - Soult,0,"{'lon': 2.4105220288038, 'lat': 48.846918761569}",,True
+3002,Saint-Gilles - Turenne,0,"{'lon': 2.3647149920992, 'lat': 48.858158956779}",,True
+14201,Decrès - Alésia,0,"{'lon': 2.3139070151575, 'lat': 48.832200060759}",,True
+23301,Les Blagis,0,"{'lon': 2.302526, 'lat': 48.785205}",,True
+20142,Mûriers - Père Lachaise,0,"{'lon': 2.39164982067019, 'lat': 48.864130509668044}",,True
+15041,Franquet - Labrouste,0,"{'lon': 2.306762784719467, 'lat': 48.83287705011431}",,True
+12119,Dom-Pérignon - Gravelle,0,"{'lon': 2.409880310297, 'lat': 48.825481574435}",,True
+20013,Alexandre Dumas - Place de la Réunion,0,"{'lon': 2.3997703687646292, 'lat': 48.85533710742046}",,True
+30004,Jean Jaurès - Place de la Libération,0,"{'lon': 2.4391458057475, 'lat': 48.90617751921}",,True
+11029,Ménilmontant - Oberkampf,0,"{'lon': 2.3830134404158, 'lat': 48.866617658681}",,True
+42027,Verdun - Pierre et Marie Curie,0,"{'lon': 2.3707106709480286, 'lat': 48.812822398263286}",,True
+30007,Pablo Picasso - Maurice Thorez,0,"{'lon': 2.4489325365198, 'lat': 48.906887812943}",,True
+8044,Alfred de Vigny - Place du Général Brocard,0,"{'lon': 2.305254448220567, 'lat': 48.87836138361425}",,True
+32305,Saint-Germain - Verdun,0,"{'lon': 2.4331868384644, 'lat': 48.882877330093}",,True
+18134,Ney - Porte de Clignancourt,0,"{'lon': 2.3458001, 'lat': 48.8978867}",,True
+5201,Saint-Jacques - Soufflot,0,"{'lon': 2.3430785379567, 'lat': 48.846280383395}",,True
+1002,Victoria - Place du Chatelet,0,"{'lon': 2.3469167947769, 'lat': 48.857992591527}",,True
+40001,Hôpital Mondor,0,"{'lon': 2.4537451531298, 'lat': 48.798922410229}",,True
+15047,Morillons - Dantzig,0,"{'lon': 2.299380004405976, 'lat': 48.83310149953933}",,True
+6006,Notre-Dame-des-Champs - Stanislas,0,"{'lon': 2.329337755887181, 'lat': 48.84479928858768}",,True
+5124,Erasme - Ulm,0,"{'lon': 2.3445946723222733, 'lat': 48.84264375274712}",,True
+8054,Bertie Albrecht - Hoche,0,"{'lon': 2.301303138307601, 'lat': 48.87614039826388}",,True
+41202,Gare Rer de Fontenay sous Bois,0,"{'lon': 2.4630465, 'lat': 48.8436279}",,True
+9116,Victoire - Chaussée d'Antin,0,"{'lon': 2.3316738009452824, 'lat': 48.875065791004396}",,True
+16136,Théophile Gautier - François Millet,0,"{'lon': 2.273029983043671, 'lat': 48.85034821320644}",,True
+13002,Arago - Glacière,0,"{'lon': 2.3445770524322067, 'lat': 48.83486054775774}",,True
+19013,Laumière - Petit,0,"{'lon': 2.380039058625698, 'lat': 48.88467368538326}",,True
+19115,Porte de la Villette,0,"{'lon': 2.386150136590004, 'lat': 48.89835196548483}",,True
+32010,Place aux Étoiles,0,"{'lon': 2.3523425683379173, 'lat': 48.91835629408464}",,True
+11041,Square Saint-Ambroise,1,"{'lon': 2.375841, 'lat': 48.860934}",,False
+6017,Sénat - Condé,0,"{'lon': 2.337939441204071, 'lat': 48.84954227788459}",,True
+13103,Hôpital Pitié Salpêtrière,0,"{'lon': 2.3604946, 'lat': 48.8377016}",,True
+12161,Diderot - Reuilly,0,"{'lon': 2.3861273378134, 'lat': 48.847208456061}",,True
+32603,Calmette,0,"{'lon': 2.424993216991425, 'lat': 48.88104925098552}",,True
+12108,Bercy.,0,"{'lon': 2.3788625746965, 'lat': 48.839966914994}",,True
+9012,Rougemont - Poissonnière,0,"{'lon': 2.345873080193996, 'lat': 48.871611569354755}",,True
+13113,Vistule - Choisy,0,"{'lon': 2.3615723848342896, 'lat': 48.82365543660611}",,True
+20045,Louis Ganne - Davout,0,"{'lon': 2.409725748002529, 'lat': 48.86338720692607}",,True
+15009,Suffren - Pérignon,0,"{'lon': 2.307052147596786, 'lat': 48.84717561492764}",,True
+7010,Constantine - Université,0,"{'lon': 2.3148481955842, 'lat': 48.860680473738}",,True
+20203,Evariste Galois,0,"{'lon': 2.4133544409574, 'lat': 48.873341356228}",,True
+10153,Gare du Nord - Denain,0,"{'lon': 2.3544725775719, 'lat': 48.879595787608}",,True
+10110,Louis Blanc - Jemmapes,0,"{'lon': 2.3684485629201, 'lat': 48.879330755297}",,True
+15123,Commerce - Letellier,0,"{'lon': 2.2966245196598805, 'lat': 48.84797660373612}",,True
+15064,Javel - André Citroën,0,"{'lon': 2.2786368057132, 'lat': 48.846276485475}",,True
+23010,Voltaire - Anatole France,0,"{'lon': 2.284262739121914, 'lat': 48.891999360256904}",,True
+5012,Estrapade - Ulm,0,"{'lon': 2.3454568170362, 'lat': 48.84512772828}",,True
+12028,Vivaldi - Antoine-Julien Hénard,0,"{'lon': 2.389728979467376, 'lat': 48.841923663276546}",,True
+9007,Condorcet - Turgot,2,"{'lon': 2.345232367515564, 'lat': 48.87985155789093}",,False
+10033,Gare du Nord - Saint-Vincent de Paul,0,"{'lon': 2.3524305148385, 'lat': 48.880955741648}",,True
+16105,Crevaux - Bugeaud,0,"{'lon': 2.2811490076919, 'lat': 48.87080942867}",,True
+16013,Mairie du 16ème,0,"{'lon': 2.2765953093767166, 'lat': 48.863936848471994}",,True
+18140,Porte de Clignancourt - Ney,0,"{'lon': 2.344321422278881, 'lat': 48.899641123987095}",,True
+10006,Petites Ecuries - Faubourg Saint-Denis,0,"{'lon': 2.3542150855064397, 'lat': 48.87287120589831}",,True
+2015,Louis le Grand - Italiens,0,"{'lon': 2.3340544619393, 'lat': 48.870508937204}",,True
+3009,Temple - Haudriettes,0,"{'lon': 2.3566960206458, 'lat': 48.861636880212}",,True
+22502,Kléber - National,0,"{'lon': 2.2393910586833954, 'lat': 48.906333898712234}",,True
+3005,Sainte-Elisabeth - Turbigo,0,"{'lon': 2.3596492409706, 'lat': 48.86610337431}",,True
+2012,Choiseul - Quatre Septembre,0,"{'lon': 2.3359975218772893, 'lat': 48.8699355331869}",,True
+5003,Le Goff - Gay-Lussac,0,"{'lon': 2.3412207886577, 'lat': 48.846102400979}",,True
+31020,Résistance - Parmentier,0,"{'lon': 2.436705082654953, 'lat': 48.85965138131299}",,True
+2006,Place des Victoires,0,"{'lon': 2.3420333, 'lat': 48.8660354}",,True
+2102,Saint-Marc - Feydeau,0,"{'lon': 2.3418715826353, 'lat': 48.870326843044}",,True
+6029,Vaugirard - Monsieur le Prince,0,"{'lon': 2.3411329463124, 'lat': 48.848951441614}",,True
+17020,Jouffroy d'Abbans - Malesherbes,2,"{'lon': 2.3070717, 'lat': 48.8850134}",,False
+31104,Mairie de Rosny-sous-Bois,0,"{'lon': 2.4865807592869, 'lat': 48.871256519012}",,True
+5027,Gobelins - Port-Royal,0,"{'lon': 2.3515201359987, 'lat': 48.837135900263}",,True
+48006,Maxime Gorki - Paul Vaillant-Couturier,0,"{'lon': 2.3683342337608337, 'lat': 48.79673508795443}",,True
+11022,Roquette - Auguste Laurent,4,"{'lon': 2.381797702650783, 'lat': 48.858001906023354}",,False
+48002,LCL Campus - Place Oscar Niemeyer,0,"{'lon': 2.363983690738678, 'lat': 48.805342480621576}",,True
+12102,Bercy - Traversiére,0,"{'lon': 2.3703800886869, 'lat': 48.846192642574}",,True
+15045,Porte de la Plaine,0,"{'lon': 2.2924277186393742, 'lat': 48.82805169605981}",,True
+20030,Ménilmontant - Père Lachaise,0,"{'lon': 2.3869940266013, 'lat': 48.863287291502}",,True
+10001,René Boulanger - Lancry,0,"{'lon': 2.3600032, 'lat': 48.8685433}",,True
+18018,Carpeaux - Place Jacques Froment,0,"{'lon': 2.3309428, 'lat': 48.8906542}",,True
+23205,Parc des Pierrettes,0,"{'lon': 2.2909969, 'lat': 48.7973062}",,True
+17127,Porte de Clichy - Place des Nations Unies,0,"{'lon': 2.310542999196392, 'lat': 48.896737263309504}",,True
+23703,Gare de Chaville Rive Gauche,0,"{'lon': 2.188277207315, 'lat': 48.805160304345}",,True
+15058,Place du Moulin de Javel,0,"{'lon': 2.2716060653329, 'lat': 48.84021670922}",,True
+15103,Cauchy - Cévennes,0,"{'lon': 2.2751328349113, 'lat': 48.843372571022}",,True
+40002,Bleuets - Bordières,0,"{'lon': 2.4543687905029, 'lat': 48.802117531472}",,True
+8002,Gare Saint-Lazare - Cour du Havre,0,"{'lon': 2.3265598341823, 'lat': 48.875674400851}",,True
+9020,Toudouze - Clauzel,0,"{'lon': 2.3373600840568547, 'lat': 48.87929591733507}",,True
+43002,Lagny - Victor Basch,0,"{'lon': 2.426325418925233, 'lat': 48.84884147189881}",,True
+17048,De Toqueville - Terrasse,0,"{'lon': 2.314002, 'lat': 48.882428}",,True
+26002,Redoute - Les Courtilles,0,"{'lon': 2.2836696356535, 'lat': 48.929867194519}",,True
+17030,Pereire - Rennequin,0,"{'lon': 2.2952447086572647, 'lat': 48.88364782887555}",,True
+46003,Conservatoire de Musique,0,"{'lon': 2.4034014344215398, 'lat': 48.77093586667601}",,True
+18046,Etienne Jodelle - Saint Ouen,0,"{'lon': 2.326124420314341, 'lat': 48.88794016394694}",,True
+1020,Cambon - Rivoli,0,"{'lon': 2.3251800647137, 'lat': 48.866143390992}",,True
+11030,Oberkampf - République,0,"{'lon': 2.37611478491, 'lat': 48.86531608707}",,True
+21008,Victor Hugo - Galliéni,0,"{'lon': 2.2460845112801, 'lat': 48.838020154411}",,True
+42302,Aristide Briand - Gare de Bagneux,0,"{'lon': 2.321148812770844, 'lat': 48.79387269664978}",,True
+42301,Gare Arcueil - Cachan,0,"{'lon': 2.328171, 'lat': 48.799824}",,True
+51004,Général Delambre - Prebuard,0,"{'lon': 2.2234171606307, 'lat': 48.93870344444}",,True
+8033,Commandant Rivière,0,"{'lon': 2.309796, 'lat': 48.872933}",,True
+26001,Gare d'Asnières sur Seine,0,"{'lon': 2.2835066914558415, 'lat': 48.90636459217474}",,True
+21308,Bara - Henri Farman,0,"{'lon': 2.2677567601203923, 'lat': 48.833218027457846}",,True
+18032,Porte de Clignancourt.,0,"{'lon': 2.343996, 'lat': 48.897488}",,True
+8051,Batignolles - Rome,0,"{'lon': 2.3202589899301524, 'lat': 48.881823370566806}",,True
+5121,Square René Viviani - Montebello,0,"{'lon': 2.3478421568871, 'lat': 48.851904891406}",,True
+20016,Pyrénées - Maraîchers,0,"{'lon': 2.4043509364128113, 'lat': 48.85714001395299}",,True
+16043,Place de Passy,0,"{'lon': 2.277500546942199, 'lat': 48.85780291711202}",,True
+20116,Haies - Réunion,0,"{'lon': 2.402426162238911, 'lat': 48.85386896766491}",,True
+9101,Cadet - La Fayette,0,"{'lon': 2.3435704037547, 'lat': 48.875601632672}",,True
+31704,Jeanne Hornet - Girardot,2,"{'lon': 2.427820265293122, 'lat': 48.873802681432146}",,False
+10163,Gare du Nord - Demarquay,0,"{'lon': 2.358411, 'lat': 48.881154}",,True
+7101,Raspail - Chomel,0,"{'lon': 2.3266580700874, 'lat': 48.852233164303}",,True
+1016,Thérèse - Opéra,0,"{'lon': 2.3344334212238, 'lat': 48.866483514509}",,True
+17033,Carnot - Général Lanrezac,0,"{'lon': 2.2938242935036, 'lat': 48.875443870736}",,True
+17104,Jardin Marguerite Long,0,"{'lon': 2.2836575657129288, 'lat': 48.8816985773914}",,True
+19030,Melun - Jean Jaurès,0,"{'lon': 2.376477420330048, 'lat': 48.8837796723475}",,True
+35008,Place de l'Eglise - Pantin,0,"{'lon': 2.4124351143836975, 'lat': 48.892809461520265}",,True
+20117,Saint-Fargeau - Mortier,0,"{'lon': 2.407912909984589, 'lat': 48.87266656122256}",,True
+32021,Place du Front Populaire - George Sand,0,"{'lon': 2.364541214992642, 'lat': 48.90680713698062}",,True
+11103,Pelée - Alphonse Baudin,0,"{'lon': 2.3710541, 'lat': 48.8600265}",,True
+11032,Jean-Pierre Timbaud - Vaucouleurs,0,"{'lon': 2.377885, 'lat': 48.867937}",,True
+10018,Square Alban Satragne,0,"{'lon': 2.3559567333359, 'lat': 48.875388227727}",,True
+32301,Mairie de Romainville,0,"{'lon': 2.435679, 'lat': 48.885109}",,True
+8549,George V - Christophe Colomb,0,"{'lon': 2.30104, 'lat': 48.87046}",,True
+14101,Gare Montparnasse - Edgar Quinet,7,"{'lon': 2.3233232282801, 'lat': 48.841487851079}",,False
+8020,Batignolles - Beudant,0,"{'lon': 2.319852970540523, 'lat': 48.88216401466375}",,True
+22501,Théâtre de La Garenne,0,"{'lon': 2.2345951981176, 'lat': 48.905658361454}",,True
+10105,Mazagran - Bonne Nouvelle,0,"{'lon': 2.3511248454452, 'lat': 48.870047123655}",,True
+21401,Mairie de Clamart,0,"{'lon': 2.262151, 'lat': 48.800612}",,True
+23004,Paul Vaillant-Couturier - Victor Hugo,0,"{'lon': 2.293848017974069, 'lat': 48.89819702263572}",,True
+12018,Saint-Mandé - Fabre d'Eglantine,0,"{'lon': 2.3965022, 'lat': 48.8453579}",,True
+13009,Auguste Blanqui - Corvisart,0,"{'lon': 2.3502726, 'lat': 48.8300989}",,True
+8027,Mairie du 8ème,0,"{'lon': 2.318264, 'lat': 48.877932}",,True
+19110,Square Claude Bernard,0,"{'lon': 2.375325746834278, 'lat': 48.89876016219984}",,True
+22401,Charles de Gaulle - Plateau de Vanves,0,"{'lon': 2.298571803412886, 'lat': 48.82233088973263}",,True
+32013,Saint-Denis - Université,0,"{'lon': 2.3638297989964485, 'lat': 48.94563430946964}",,True
+26006,Bas - Gabriel Péri,0,"{'lon': 2.2948095202445984, 'lat': 48.91585580539625}",,True
+12163,Hippodrome Paris-Vincennes,0,"{'lon': 2.446271181106568, 'lat': 48.82048387758518}",,True
+4009,Village Saint-Paul,0,"{'lon': 2.3607301712036, 'lat': 48.852639866625}",,True
+18014,Léon - Doudeauville,0,"{'lon': 2.353573372638597, 'lat': 48.88832421845225}",,True
+20010,Sorbier - Gasnier-Guy,0,"{'lon': 2.3936596512794, 'lat': 48.865217631011}",,True
+6015,André Mazet - Saint-André des Arts,0,"{'lon': 2.3390958085656166, 'lat': 48.85375581057431}",,True
+8040,Pierre Charron - Champs-Elysées,0,"{'lon': 2.3043501377106, 'lat': 48.870103359864}",,True
+48001,Chastenet de Géry - Marcel Paul,0,"{'lon': 2.3567359, 'lat': 48.800123}",,True
+10003,Hauteville - Bonne Nouvelle,0,"{'lon': 2.3496496368327, 'lat': 48.87077436024}",,True
+14027,Gergovie - Alésia,0,"{'lon': 2.318882101207347, 'lat': 48.83088717455243}",,True
+15044,Dantzig - Lefebvre,0,"{'lon': 2.295934036374092, 'lat': 48.83013921586756}",,True
+6005,Montparnasse -  Square Ozanam,0,"{'lon': 2.3265242949128, 'lat': 48.843310567822}",,True
+11040,Temple - Jean-Pierre Timbaud,5,"{'lon': 2.3660597205162, 'lat': 48.86446597201}",,False
+48011,Epi d'Or - Chevilly,0,"{'lon': 2.3549050362061, 'lat': 48.781109786782}",,True
+22208,Stalingrad - Barbara,0,"{'lon': 2.3175904558822, 'lat': 48.809223658808}",,True
+22305,Jean Jaurès - Place du Dr Roux,0,"{'lon': 2.2947337017374, 'lat': 48.927567032796}",,True
+34012,Bateliers - Quai de Seine,0,"{'lon': 2.3239533298594, 'lat': 48.915817585516}",,True
+21514,Place de la Paix - Abbé Saint-Pierre,0,"{'lon': 2.2047570338469806, 'lat': 48.86462724459225}",,True
+18042,Place Pigalle,0,"{'lon': 2.3361566, 'lat': 48.8827555}",,True
+15060,Place de la Montagne du Goulet,5,"{'lon': 2.2773844, 'lat': 48.8443415}",,False
+11011,Richard Lenoir - Voltaire,0,"{'lon': 2.3727491497993, 'lat': 48.86164273878}",,True
+7025,Octave Gréard - Tour Eiffel,8,"{'lon': 2.2931787543289, 'lat': 48.856502977696}",,False
+13106,Bobillot - Paulin Mery,5,"{'lon': 2.3543356766749, 'lat': 48.829899841747}",,False
+10013,Alibert - Jemmapes,0,"{'lon': 2.3661044619878, 'lat': 48.871044051984}",,True
+15056,Place Balard,0,"{'lon': 2.2784192115068, 'lat': 48.836395736424}",,True
+32017,Basilique,22,"{'lon': 2.3588666820200914, 'lat': 48.93626891059109}",,False
+6003,Saint-Sulpice,0,"{'lon': 2.3308077827095985, 'lat': 48.85165383178419}",,True
+33006,André Karman - République,0,"{'lon': 2.3851355910301213, 'lat': 48.91039875761846}",,True
+14108,Le Brix et Mesmin - Jourdan,0,"{'lon': 2.327861653302471, 'lat': 48.82234096593411}",,True
+9106,Boudreau - Auber,0,"{'lon': 2.329423, 'lat': 48.87219}",,True
+16026,Ranelagh - Mozart,0,"{'lon': 2.2704418, 'lat': 48.8554439}",,True
+45003,11 Novembre 1918 - 8 Mai 1945,0,"{'lon': 2.5382421165704727, 'lat': 48.80889533774377}",,True
+8034,Berri - Haussmann,0,"{'lon': 2.3082953318953514, 'lat': 48.874746047357135}",,True
+18022,Marcadet - Barbès,0,"{'lon': 2.3490573929687, 'lat': 48.890451120965}",,True
+11039,Richard Lenoir - Jean-Pierre Timbaud,0,"{'lon': 2.3693370749669, 'lat': 48.865804276686}",,True
+23006,Jules Guesde - Alsace,0,"{'lon': 2.2950777411461, 'lat': 48.890566275506}",,True
+11105,Parmentier - République,0,"{'lon': 2.3750124, 'lat': 48.8644954}",,True
+46001,Place Paul Eluard,0,"{'lon': 2.4144977331161503, 'lat': 48.7672039733195}",,True
+20111,Villiers de l'Isle Adam - Pyrénées,0,"{'lon': 2.396222, 'lat': 48.867362}",,True
+19008,Flandre - Alphonse Karr,0,"{'lon': 2.381868, 'lat': 48.89465}",,True
+23009,Anatole France - Louise Michel,0,"{'lon': 2.2881576418876652, 'lat': 48.88873214926474}",,True
+10113,Parmentier - Hôpital Saint-Louis,0,"{'lon': 2.3698963836667, 'lat': 48.871379874257}",,True
+11115,Montreuil - Gonnet,0,"{'lon': 2.3890856287864, 'lat': 48.850500564921}",,True
+16018,Flandrin - Henri Martin,0,"{'lon': 2.2724174, 'lat': 48.8643275}",,True
+92003,Chanzy - Sud-Est,0,"{'lon': 2.195632159709931, 'lat': 48.888912037698766}",,True
+35009,Jean Lolive - Parc Stalingrad,0,"{'lon': 2.4091735482215886, 'lat': 48.89206174403158}",,True
+34002,Capitaine Glarner - Gabriel Péri,0,"{'lon': 2.3304807533425724, 'lat': 48.902449900418745}",,True
+14130,Jonquoy - Didot,0,"{'lon': 2.31648076325655, 'lat': 48.82890454823947}",,True
+5030,Sorbonne - Ecoles,0,"{'lon': 2.3434996604919, 'lat': 48.849686566191}",,True
+12153,Terroirs de France - Lheureux,0,"{'lon': 2.388618104159832, 'lat': 48.83212027074841}",,True
+10004,Metz - Faubourg Saint-Denis,0,"{'lon': 2.353521, 'lat': 48.870893}",,True
+13011,Hôpital - Campo-Formio,2,"{'lon': 2.358218, 'lat': 48.835405}",,False
+11021,Charonne - Pierre Bayle,3,"{'lon': 2.3903981223891, 'lat': 48.858445054262}",,False
+18006,Square Louise Michel,0,"{'lon': 2.3441386967897, 'lat': 48.884687354509}",,True
+11017,Charonne - Bureau,2,"{'lon': 2.396093, 'lat': 48.854176}",,False
+12026,Place Ginette Hamelin,0,"{'lon': 2.382064, 'lat': 48.837853}",,True
+12035,Madagascar - Meuniers,0,"{'lon': 2.3970650508999825, 'lat': 48.83460464474706}",,True
+33014,Parc Eli Lotar,0,"{'lon': 2.3727085813879967, 'lat': 48.91844993053703}",,True
+16042,Murat - Porte de Saint-Cloud,0,"{'lon': 2.2577651962637906, 'lat': 48.83750862621299}",,True
+3008,Perle - Vieille du Temple,0,"{'lon': 2.3611206, 'lat': 48.8601346}",,True
+47003,Charentonneau - Maisons Alfort,0,"{'lon': 2.443288456496946, 'lat': 48.809932980484355}",,True
+20104,Louis Lumière.,0,"{'lon': 2.41112578185621, 'lat': 48.86216198070008}",,True
+12156,Niger - Soult,0,"{'lon': 2.410361237220498, 'lat': 48.84369906369085}",,True
+9037,Parme - Clichy,0,"{'lon': 2.3281970934506, 'lat': 48.881266424227}",,True
+7021,Bosquet - Saint-Dominique,0,"{'lon': 2.3037165802346, 'lat': 48.858651709526}",,True
+14132,Bézout - Général Leclerc,0,"{'lon': 2.3285973072052, 'lat': 48.82884804502439}",,True
+44001,Quai Jules Guesde - Saint-Simon,0,"{'lon': 2.4089661620274, 'lat': 48.80391487219}",,True
+10041,Gare du Nord - La Chapelle,0,"{'lon': 2.3561057075858, 'lat': 48.884178287286}",,True
+1025,Oratoire - Rivoli,0,"{'lon': 2.3400047421455, 'lat': 48.861342760889}",,True
+23101,Grande Rue - Europe,0,"{'lon': 2.205879874527455, 'lat': 48.8218104687602}",,True
+17106,Berthier - Porte de Clichy,0,"{'lon': 2.3125872006816, 'lat': 48.894222687781}",,True
+48008,Guy Môquet - Parvis Georges Marchais,0,"{'lon': 2.35943466424942, 'lat': 48.79518840095975}",,True
+32011,Stade de France - Francis de Pressensé,0,"{'lon': 2.3620655760169, 'lat': 48.919141953558}",,True
+19117,Euryale Dehaynin - Loire,0,"{'lon': 2.3774591088294987, 'lat': 48.886248917304805}",,True
+42205,Place Aristide Briand,0,"{'lon': 2.413003742694855, 'lat': 48.82189236575831}",,True
+12039,Général Michel Bizot - Claude Decaen,7,"{'lon': 2.400927788127704, 'lat': 48.83481262982544}",,False
+1201,Perrault - Place du Louvre,0,"{'lon': 2.3412468419093, 'lat': 48.860273568996}",,True
+21112,Claude Debussy - Marc Bloch,1,"{'lon': 2.3117771744728, 'lat': 48.910388180512}",,False
+5107,Pontoise - La Tournelle,0,"{'lon': 2.3524542754922, 'lat': 48.850458009188}",,True
+17010,Jonquière - Docteur Paul Brousse,0,"{'lon': 2.318705212173216, 'lat': 48.894799816683985}",,True
+31202,Gabriel Péri - Jules Ferry,0,"{'lon': 2.3912295762525, 'lat': 48.926182814311}",,True
+8039,Colisée - Champs-Elysées,0,"{'lon': 2.3076190799475, 'lat': 48.870475399387}",,True
+44015,Rouget de L'isle - Watteau,0,"{'lon': 2.3963020229163, 'lat': 48.778192750803}",,True
+44017,Jules Guesde - Pont du Port à l'Anglais,0,"{'lon': 2.417212128639221, 'lat': 48.79628807093802}",,True
+16118,Michel-Ange - Parent de Rosan,0,"{'lon': 2.2584119439125065, 'lat': 48.840579923690115}",,True
+14013,Liard - Amiral Mouchez,0,"{'lon': 2.342167, 'lat': 48.8214169}",,True
+9002,Abbeville - Faubourg Poissonnière,0,"{'lon': 2.349147, 'lat': 48.879223}",,True
+5022,Boulangers - Cardinal Lemoine,0,"{'lon': 2.3521495, 'lat': 48.8462904}",,True
+19105,Ambroise Rendu - Porte Brunet,0,"{'lon': 2.395733, 'lat': 48.883667}",,True
+22409,Henri Barbusse - Stalingrad,0,"{'lon': 2.2872862592339516, 'lat': 48.814183748660554}",,True
+12128,Pyramide - Ecole du Breuil,0,"{'lon': 2.4586871266365056, 'lat': 48.82237977153955}",,True
+15106,Grenelle - Violet,0,"{'lon': 2.294612042605877, 'lat': 48.84993035512154}",,True
+31102,Boissière - Etienne Dolet,0,"{'lon': 2.4677312, 'lat': 48.876111}",,True
+21006,Marcelin Berthelot,0,"{'lon': 2.233161628246308, 'lat': 48.8415473058801}",,True
+44003,Gabriel Péri - Danielle Casanova,0,"{'lon': 2.4025777, 'lat': 48.790114}",,True
+9010,Rochechouart lamartine,0,"{'lon': 2.344393021854, 'lat': 48.876719895109}",,True
+24001,Arche - Léonard de Vinci,0,"{'lon': 2.2383723043644914, 'lat': 48.89790972494496}",,True
+14136,Auguste Cain - Jean Moulin,0,"{'lon': 2.3210415244102482, 'lat': 48.82577028927573}",,True
+32003,Wilson - Métallurgie,0,"{'lon': 2.3584435880184174, 'lat': 48.909423010092326}",,True
+8025,Miromesnil - La Boétie,0,"{'lon': 2.3158480972052, 'lat': 48.873722412917}",,True
+11007,Jean Macé - Faidherbe,0,"{'lon': 2.3828620836139, 'lat': 48.85337548426}",,True
+33018,Edouard Poisson - Victor Hugo,0,"{'lon': 2.379864752692811, 'lat': 48.91118557052621}",,True
+7015,Varenne,0,"{'lon': 2.3152771219611, 'lat': 48.857202661803}",,True
+5106,Cujas - Saint-Michel,0,"{'lon': 2.341831654854, 'lat': 48.848191348584}",,True
+31012,Place Carnot,0,"{'lon': 2.441531717777252, 'lat': 48.85593932186797}",,True
+5026,Pascal - Claude Bernard,0,"{'lon': 2.3499782010912895, 'lat': 48.839061952159746}",,True
+15028,Grenelle - Dr Finlay,0,"{'lon': 2.2919502854347233, 'lat': 48.851315406715976}",,True
+8102,Lamennais - Washington,0,"{'lon': 2.303444892168045, 'lat': 48.87352990026496}",,True
+21019,Edouard Vaillant - Paul-Adolphe Souriau,0,"{'lon': 2.2479459643364, 'lat': 48.834845858829}",,True
+17027,Place du Maréchal Juin - Péreire,0,"{'lon': 2.298286, 'lat': 48.885263}",,True
+16123,Mahatma Gandhi,26,"{'lon': 2.264205, 'lat': 48.876356}",,False
+14112,Méchain - Faubourg Saint-Jacques,0,"{'lon': 2.33798034198275, 'lat': 48.83586772099485}",,True
+47004,Stade Auguste Delaune,0,"{'lon': 2.4345204234123234, 'lat': 48.80896378683884}",,True
+16122,Route de la Muette - Porte de Neuilly,0,"{'lon': 2.2587671, 'lat': 48.8798926}",,True
+21311,Parvis Corentin Celton,0,"{'lon': 2.2784319519996648, 'lat': 48.82747252522725}",,True
+17116,Reims - Porte d'Asnières,0,"{'lon': 2.300144659954865, 'lat': 48.891834448210986}",,True
+15061,Square Desnouettes,0,"{'lon': 2.284142297394666, 'lat': 48.83476837934194}",,True
+33005,République - Henri Barbusse,0,"{'lon': 2.389432489871979, 'lat': 48.90661553626751}",,True
+18142,Jessaint - Marx Dormoy,0,"{'lon': 2.358930408954621, 'lat': 48.88484543106364}",,True
+18035,René Binet - Porte de Montmartre,0,"{'lon': 2.3365534096956253, 'lat': 48.89905109950848}",,True
+19036,Hôpital Robert Debré,0,"{'lon': 2.4008650346327003, 'lat': 48.88005222200894}",,True
+14113,Santé - Arago,0,"{'lon': 2.3415737262044938, 'lat': 48.83507657562064}",,True
+15072,Place Fernand Forest,0,"{'lon': 2.281863167882, 'lat': 48.849269143836}",,True
+16007,Longchamp - Place d'Iéna,2,"{'lon': 2.2926748171449, 'lat': 48.864917233434}",,False
+22604,Hôtel de Ville de Fontenay-aux-Roses,0,"{'lon': 2.2871455930319455, 'lat': 48.790844603480856}",,True
+21028,Pierre Lefaucheux - Traversière,0,"{'lon': 2.2417913004755974, 'lat': 48.82435208303827}",,True
+20108,Jardin de l'Hospice Debrousse,0,"{'lon': 2.40568600595, 'lat': 48.861451061938}",,True
+13033,Porte d'Italie,0,"{'lon': 2.360236309468746, 'lat': 48.817161987718954}",,True
+12043,Daumesnil - Hébrard,0,"{'lon': 2.38474, 'lat': 48.8429}",,True
+14131,Jourdan - Monticelli,0,"{'lon': 2.329095, 'lat': 48.822032}",,True
+14010,Jean Moulin - Place Victor et Hélène Basch,0,"{'lon': 2.3261967301369, 'lat': 48.82764910241}",,True
+4020,Place Edmond Michelet,0,"{'lon': 2.3500636965036, 'lat': 48.860134890542}",,True
+33016,Fort d'Aubervilliers,0,"{'lon': 2.4035281687974925, 'lat': 48.91502382370325}",,True
+6002,Saint-Benoît - Jacob,0,"{'lon': 2.3334722220897675, 'lat': 48.85545136013941}",,True
+2013,Favart - Italiens,2,"{'lon': 2.3382901058508, 'lat': 48.871446353921}",,False
+13005,Cordelières - Arago,0,"{'lon': 2.348572461702221, 'lat': 48.83548071896613}",,True
+21507,Gardenat-Lapostol - Velettes,0,"{'lon': 2.224185, 'lat': 48.87387}",,True
+8036,Lisbonne - Monceau,4,"{'lon': 2.3096942214195, 'lat': 48.877455676814}",,False
+2016,Aboukir - Alexandrie,0,"{'lon': 2.3502043269474897, 'lat': 48.86868344444473}",,True
+12164,Stade Pershing,0,"{'lon': 2.4583535268903, 'lat': 48.829107826857}",,True
+18135,Ney - Porte de Montmartre,0,"{'lon': 2.3364872, 'lat': 48.897918}",,True
+18010,Riquet - Marx Dormoy,0,"{'lon': 2.3601756244898, 'lat': 48.89021003702}",,True
+25007,Bons Raisins - Voltaire,0,"{'lon': 2.1947155570850896, 'lat': 48.87282451461399}",,True
+41605,Général De Gaulle - Vivien,0,"{'lon': 2.4189166724681854, 'lat': 48.83607420090204}",,True
+43007,Hôtel de Ville de Vincennes,0,"{'lon': 2.4398955702781677, 'lat': 48.84827609706963}",,True
+12022,Sahel - Général Michel Bizot,0,"{'lon': 2.4044444784522057, 'lat': 48.840872964793355}",,True
+21023,Ancienne Mairie - André Morizet,1,"{'lon': 2.234077, 'lat': 48.838311}",,False
+12122,Bois de Vincennes - Polygone,0,"{'lon': 2.431421081436563, 'lat': 48.83544491617421}",,True
+11028,Guillaume Bertrand - République,0,"{'lon': 2.380906377155, 'lat': 48.863825174341}",,True
+25002,Hôtel de Ville de Rueil-Malmaison,0,"{'lon': 2.181724, 'lat': 48.878194}",,True
+15113,Arsonval - Falguière,0,"{'lon': 2.313117867297474, 'lat': 48.84040040365445}",,True
+3201,Payenne - Square George Caïn,0,"{'lon': 2.3622643, 'lat': 48.8578329}",,True
+18045,Pierre Ginier - Clichy,0,"{'lon': 2.326228, 'lat': 48.8867667}",,True
+22507,Châteaudun - Place de la Liberté,0,"{'lon': 2.2454486480600626, 'lat': 48.90970830301211}",,True
+12106,Gare de Lyon - Roland Barthes,0,"{'lon': 2.3790882155299187, 'lat': 48.84395729494058}",,True
+21320,Président Roosevelt - Rouget de Lisle,0,"{'lon': 2.2616135525345, 'lat': 48.83047518749}",,True
+47008,Les Planètes,0,"{'lon': 2.4596271973784, 'lat': 48.80929410761}",,True
+35001,Jean Jaurès - Ouvrières Pivéreuses,0,"{'lon': 2.3995766043663, 'lat': 48.910423437526}",,True
+40015,Iles de Loisirs de Créteil,0,"{'lon': 2.4455094301232, 'lat': 48.780258200618}",,True
+31024,Romainville - Vaillant-Couturier,0,"{'lon': 2.446748, 'lat': 48.86785}",,True
+17044,Porte de Saint-Ouen - Bessières,0,"{'lon': 2.32851451022192, 'lat': 48.89792240854517}",,True
+9008,Tour d'Auvergne - Rodier,0,"{'lon': 2.343698, 'lat': 48.879161}",,True
+15112,Vigée-Lebrun - Anselme Payen,0,"{'lon': 2.3110422492027287, 'lat': 48.838683941628375}",,True
+9001,Bellefond - Poissonnière,0,"{'lon': 2.348463758826256, 'lat': 48.87759897050706}",,True
+8016,Square Louis XVI,0,"{'lon': 2.323658830743138, 'lat': 48.87320440102894}",,True
+10029,Dunkerque - Rocroy,0,"{'lon': 2.351464, 'lat': 48.880726}",,True
+19026,Place de Rhin et Danube,0,"{'lon': 2.392586767673493, 'lat': 48.88192765861766}",,True
+31009,Place Du Général De Gaulle,0,"{'lon': 2.4329931, 'lat': 48.8687591}",,True
+43008,Fontenay - Libération,0,"{'lon': 2.4451419711113, 'lat': 48.847803063647}",,True
+21312,Lucie Aubrac - Fort,0,"{'lon': 2.271184623241425, 'lat': 48.818144834008976}",,True
+25003,Henri Ste-Claire Déville - Paul Héroult,0,"{'lon': 2.172411, 'lat': 48.892663}",,True
+17105,Place Madeleine Daniélou,0,"{'lon': 2.282015, 'lat': 48.883498}",,True
+20134,Lieutenant Chauré - Etienne Marey,0,"{'lon': 2.405970990657807, 'lat': 48.86746195408435}",,True
+11035,Parmentier - Abel Rabaud,0,"{'lon': 2.371688821240712, 'lat': 48.86921273836114}",,True
+22006,Pierret - Madrid,0,"{'lon': 2.260125767248034, 'lat': 48.882976576876565}",,True
+92008,Hôtel de Ville de Nanterre,0,"{'lon': 2.205548956990242, 'lat': 48.892371898250424}",,True
+12009,Charenton - Diderot,0,"{'lon': 2.3793068155646, 'lat': 48.846171461187}",,True
+42029,Stalingrad - Germaine Tailleferre,0,"{'lon': 2.3786691203713417, 'lat': 48.80257200481316}",,True
+17011,Fragonard - Porte de Clichy,0,"{'lon': 2.3143893107772, 'lat': 48.894155633419}",,True
+21109,Guichet - Jean Jaurès,0,"{'lon': 2.3023840785026555, 'lat': 48.905169868129036}",,True
+17018,Parc Monceau,0,"{'lon': 2.3095492646098, 'lat': 48.881077914129}",,True
+10005,Petites Ecuries - Faubourg Poissonnière,0,"{'lon': 2.348388757504776, 'lat': 48.87397217237368}",,True
+5002,Sommerard - Saint-Jacques,0,"{'lon': 2.345015835298588, 'lat': 48.850310432924466}",,True
+7004,Raspail - Varenne,0,"{'lon': 2.3263905197382, 'lat': 48.853147816545}",,True
+21111,Professeur René Leriche - Général Leclerc,0,"{'lon': 2.307887971401215, 'lat': 48.90782845483013}",,True
+7006,Quai Voltaire,0,"{'lon': 2.3314182047146, 'lat': 48.858942986179}",,True
+7005,Raspail - Bac,0,"{'lon': 2.3256602883339, 'lat': 48.855628721101}",,True
+11010,Boulets - Faubourg Saint-Antoine,0,"{'lon': 2.3917546141943, 'lat': 48.849259262115}",,True
+22102,Mont Valérien - Michel Salles,0,"{'lon': 2.2152966, 'lat': 48.8561915}",,True
+23304,Mairie de Sceaux,0,"{'lon': 2.2887361764861, 'lat': 48.778916905132}",,True
+15107,Palais des Sports,0,"{'lon': 2.2858720645308, 'lat': 48.833468517426}",,True
+17201,Porte Maillot - Perreire,0,"{'lon': 2.2842371277102, 'lat': 48.878021154637}",,True
+18138,Station Paris Basketball - Ney - Charles Hermite,0,"{'lon': 2.3645754531026, 'lat': 48.898748039775}",,True
+14006,Saint-Jacques - Tombe Issoire,0,"{'lon': 2.3369108140468597, 'lat': 48.833206330538864}",,True
+15063,Convention - Saint-Charles,0,"{'lon': 2.2831090539694, 'lat': 48.843156111116}",,True
+15020,Mairie du 15ème,0,"{'lon': 2.2986539, 'lat': 48.8417762}",,True
+12120,Lac Daumesnil - Saint-Maurice,50,"{'lon': 2.4183654785156246, 'lat': 48.82774555743318}",,False
+20047,Cours de Vincennes - Davout,0,"{'lon': 2.4107042336225, 'lat': 48.847238029966}",,True
+9013,Mairie du 9ème,0,"{'lon': 2.3407534480528, 'lat': 48.873267137583}",,True
+7024,Rapp - Place du Général Gouraud,0,"{'lon': 2.3004072904587, 'lat': 48.858102885107}",,True
+15131,Charles Lecocq - Lecourbe,0,"{'lon': 2.294867, 'lat': 48.84044}",,True
+10017,Gare de l'Est - Fidélité,0,"{'lon': 2.356796, 'lat': 48.874575}",,True
+22013,Mairie de Neuilly sur Seine,0,"{'lon': 2.2677031159400944, 'lat': 48.88494728765838}",,True
+13048,Wurtz - Tolbiac,0,"{'lon': 2.344585955143, 'lat': 48.82631195621}",,True
+20122,Vitruve - Davout,0,"{'lon': 2.4091592812626543, 'lat': 48.86053161154489}",,True
+42501,Raspail - Albert Schweitzer,0,"{'lon': 2.34395871, 'lat': 48.81031545}",,True
+22303,Lucien Lanternier - Le Luth,0,"{'lon': 2.2889783978462224, 'lat': 48.93159430558871}",,True
+15022,Emile Zola - Fondary,0,"{'lon': 2.2953405976295476, 'lat': 48.847051143113745}",,True
+15071,Suffren - Champ de Mars,0,"{'lon': 2.2952168, 'lat': 48.8547194}",,True
+12101,Charenton - Prague,0,"{'lon': 2.3763584494312, 'lat': 48.848175129981}",,True
+15127,Place Charles Michels,0,"{'lon': 2.28502, 'lat': 48.846401}",,True
+6010,Chevreuse - Montparnasse,0,"{'lon': 2.3315522167367, 'lat': 48.841739161231}",,True
+45002,Roger Salengro - Général de Gaulle,0,"{'lon': 2.4846760556101803, 'lat': 48.820029010376956}",,True
+3010,Beaubourg - Michel-le-Comte,0,"{'lon': 2.3543103039265, 'lat': 48.862534941806}",,True
+16037,Molitor - Michel-Ange,0,"{'lon': 2.262112773566, 'lat': 48.845182081538}",,True
+17019,Phalsbourg - Villiers,0,"{'lon': 2.3090453445911407, 'lat': 48.88242307900951}",,True
+19010,Emile Reynaud - Porte de la Villette,0,"{'lon': 2.3887022584676743, 'lat': 48.90098953630053}",,True
+15132,Bargue -  Dutot,0,"{'lon': 2.308876, 'lat': 48.837884}",,True
+14103,Maine - Liancourt,0,"{'lon': 2.323731449974, 'lat': 48.835064363954}",,True
+3006,Mairie du 3ème,4,"{'lon': 2.361762821674347, 'lat': 48.86446178139141}",,False
+1014,Rivoli - Musée du Louvre,0,"{'lon': 2.33409583568573, 'lat': 48.86364636851945}",,True
+33020,Waldeck Rochet - Germaine Tillon,0,"{'lon': 2.3676301538944244, 'lat': 48.91105960199651}",,True
+1018,Alger - Rivoli,0,"{'lon': 2.3294493936128, 'lat': 48.864773553495}",,True
+2008,Mairie du 2ème,0,"{'lon': 2.3404625437747044, 'lat': 48.8672190355135}",,True
+42018,Amédée Huon - Fort d'Ivry,0,"{'lon': 2.388489693403244, 'lat': 48.805131376899986}",,True
+17021,Jouffroy d'Abbans - Villiers,0,"{'lon': 2.3056533560157, 'lat': 48.884215547037}",,True
+26012,Jardin Modèle - Pierre Boudou,0,"{'lon': 2.3057010525935, 'lat': 48.914866710946}",,True
+23202,Henri Barbusse - Gabriel Péri,0,"{'lon': 2.2874166362216, 'lat': 48.801773795836}",,True
+10202,Bichat - Grange aux Belles,0,"{'lon': 2.365015, 'lat': 48.873688}",,True
+13028,Gouthière - Poterne des Peupliers,0,"{'lon': 2.351342, 'lat': 48.820507}",,True
+16025,Jean de la Fontaine - Boulainvilliers,0,"{'lon': 2.2758664190769196, 'lat': 48.85264791461651}",,True
+31701,Mairie de Bagnolet,0,"{'lon': 2.4179587885737, 'lat': 48.868421318555}",,True
+8007,Rome - Provence,0,"{'lon': 2.325570111724113, 'lat': 48.874230055580306}",,True
+12040,Porte de Charenton,0,"{'lon': 2.3989107459784, 'lat': 48.831240105856}",,True
+5031,Lacépède - Linné,0,"{'lon': 2.354651279747486, 'lat': 48.8437035476636}",,True
+23106,Pavé des Gardes - Charles Vaillant,0,"{'lon': 2.2111820107205, 'lat': 48.81168551728}",,True
+9029,Saint-Lazare - Place d'Estienne d'Orves,0,"{'lon': 2.3329067, 'lat': 48.8768345}",,True
+34009,Dora Maar - Nadia Guendouz,0,"{'lon': 2.3220406472683, 'lat': 48.905452421305}",,True
+41304,Port - Maurice Chevalier,0,"{'lon': 2.490257616467, 'lat': 48.832474421632}",,True
+10025,Jemmapes - Ecluses Saint-Martin,0,"{'lon': 2.3660067468881607, 'lat': 48.87748519186726}",,True
+9035,Gare Saint-Lazare - Place de Budapest,0,"{'lon': 2.327339, 'lat': 48.877753}",,True
+26009,Marceau Delorme - Pierre Brossolette,0,"{'lon': 2.295897423568745, 'lat': 48.91206062860357}",,True
+13202,Place Farhat Hached,8,"{'lon': 2.3816306985827, 'lat': 48.825487045602}",,False
+11012,Montreuil - Voltaire,0,"{'lon': 2.3930755582745, 'lat': 48.850507011842}",,True
+12107,Diderot - Pierre Bourdan,0,"{'lon': 2.3902582749724, 'lat': 48.847648620797}",,True
+23801,Place de la Gare,0,"{'lon': 2.1866139007512, 'lat': 48.838513582184}",,True
+22504,Château - République,0,"{'lon': 2.253629, 'lat': 48.905928}",,True
+31708,Noisy le Sec - Jean-Baptiste Clément,0,"{'lon': 2.4152836203575, 'lat': 48.874515389637}",,True
+17038,Grande Armée - Brunel,0,"{'lon': 2.288124, 'lat': 48.876116}",,True
+32001,Proudhon - Président Wilson,0,"{'lon': 2.3584905266762, 'lat': 48.906442763495}",,True
+6108,Saint-Romain - Cherche-Midi,0,"{'lon': 2.321374788880348, 'lat': 48.84708159081946}",,True
+40011,Bas du Mont-Mesly,0,"{'lon': 2.4609763908985, 'lat': 48.779035118572}",,True
+12109,Mairie du 12ème,0,"{'lon': 2.3875549435616, 'lat': 48.840855311763}",,True
+21326,Moulin de Pierre - Abbé Grégoire,0,"{'lon': 2.2754641655975, 'lat': 48.822036188382}",,True
+7018,Ségur - d'Estrées,0,"{'lon': 2.3097044974566, 'lat': 48.851419978983}",,True
+21323,Charlot - Stade Gabriel Voisin,0,"{'lon': 2.268122527474, 'lat': 48.827228120536}",,True
+19015,Thionville - Ourcq,0,"{'lon': 2.3833653330802917, 'lat': 48.88917613743794}",,True
+26003,Argenteuil - Voltaire,0,"{'lon': 2.2814112156629562, 'lat': 48.91864865955558}",,True
+17043,Belidor - Gouvion-Saint-Cyr,26,"{'lon': 2.2854680567979813, 'lat': 48.88022154052015}",,False
+10016,Récollets - Square Villemin,0,"{'lon': 2.359801238597928, 'lat': 48.875034655883944}",,True
+33102,Gabriel Péri - Francisco Ferrer,0,"{'lon': 2.407338917255402, 'lat': 48.88633710236977}",,True
+31003,Paris - Emile Zola,0,"{'lon': 2.4186685681343083, 'lat': 48.854898095789295}",,True
+10014,Marseille - Beaurepaire,0,"{'lon': 2.3639265082738348, 'lat': 48.871624306962985}",,True
+12204,Prague - Théophile Roussel,1,"{'lon': 2.3758223011125, 'lat': 48.850330563516}",,False
+32016,Place de la Porte de Paris,0,"{'lon': 2.3564037680625916, 'lat': 48.93009363207303}",,True
+19205,Simon Bolivar - Henri Turot,0,"{'lon': 2.3739709492211, 'lat': 48.877475489801}",,True
+28001,Richard Wallace - Place du 8 Mai 1945,0,"{'lon': 2.2420343756675725, 'lat': 48.87866794788021}",,True
+18110,Departement - Pajol,0,"{'lon': 2.3613611608743668, 'lat': 48.886674849730184}",,True
+19005,Flandre - Riquet,0,"{'lon': 2.3737595955229, 'lat': 48.888013281448}",,True
+43402,Place de Verdun,0,"{'lon': 2.473775, 'lat': 48.8202823}",,True
+21305,Place Jacques Madaule,0,"{'lon': 2.2606918215752, 'lat': 48.823933787309}",,True
+33003,Bordier - Félix Faure,0,"{'lon': 2.3830059170722966, 'lat': 48.90390751882016}",,True
+27002,Parc Pierre Lagravère,0,"{'lon': 2.239069678491417, 'lat': 48.92650488131725}",,True
+17007,Navier - Epinettes,0,"{'lon': 2.3226776719093327, 'lat': 48.89587780769155}",,True
+18020,Francoeur - Marcadet,0,"{'lon': 2.340014585442034, 'lat': 48.89104123261663}",,True
+5116,Place Valhubert,0,"{'lon': 2.3640366643667, 'lat': 48.844182577315}",,True
+13026,Place Jean Delay,0,"{'lon': 2.354336, 'lat': 48.823316}",,True
+21105,Morice - Général Leclerc,0,"{'lon': 2.3128929734230046, 'lat': 48.90245471981591}",,True
+16032,Eglise d'Auteuil,0,"{'lon': 2.26848387135299, 'lat': 48.84749841771691}",,True
+9023,Laffitte - Italiens,0,"{'lon': 2.3372015478451, 'lat': 48.871815737396}",,True
+18049,Porte d'Aubervilliers,0,"{'lon': 2.3689722642302513, 'lat': 48.89859661942376}",,True
+21014,Hameau Fleuri - Marché,0,"{'lon': 2.2412404417991643, 'lat': 48.831448892608314}",,True
+15070,Balard - Montagne de la Fage,0,"{'lon': 2.2782871127128606, 'lat': 48.83850740333351}",,True
+10010,Place Jacques Bonsergent,0,"{'lon': 2.3612049221992, 'lat': 48.870948218595}",,True
+7016,Surcouf - Université,2,"{'lon': 2.3094535509142, 'lat': 48.861273016278}",,False
+11019,Charonne - Philippe-Auguste,0,"{'lon': 2.39054639062, 'lat': 48.855603162026}",,True
+9015,Lamartine - Faubourg Montmartre,0,"{'lon': 2.3397656902671, 'lat': 48.876613982891}",,True
+19113,Pré Saint-Gervais - Lilas,0,"{'lon': 2.3959073424339, 'lat': 48.877870626988}",,True
+13117,Stade Georges Carpentier,0,"{'lon': 2.3668321967125, 'lat': 48.820482438381}",,True
+10012,Vinaigriers - Magenta,0,"{'lon': 2.3593052, 'lat': 48.8731167}",,True
+21204,Estienne d'Orves - Henri Ginoux,0,"{'lon': 2.320886790760933, 'lat': 48.815388220397274}",,True
+15057,Lucien Bossoutrot - Général Martial Vallin,0,"{'lon': 2.2741072252393, 'lat': 48.836956046311}",,True
+15004,Vaugirard - Pasteur,0,"{'lon': 2.3154367133975033, 'lat': 48.84040868803496}",,True
+8037,Monceau - Malesherbes,0,"{'lon': 2.3145456, 'lat': 48.8795079}",,True
+51002,Placette Grégoire Collas,0,"{'lon': 2.2487476095557213, 'lat': 48.94342014002797}",,True
+12005,Crozatier - Faubourg Saint-Antoine,0,"{'lon': 2.378901366211, 'lat': 48.850440013405}",,True
+41203,Stalingrad - Rigollots,3,"{'lon': 2.45557576417923, 'lat': 48.84997403844251}",,False
+14026,Plantes - Moulin Vert,0,"{'lon': 2.3232302069664006, 'lat': 48.83005755305626}",,True
+12019,Gare de Reuilly - Picpus,5,"{'lon': 2.3972943797707558, 'lat': 48.84267354116789}",,False
+8028,Arsène Houssaye - Champs-Elysées,0,"{'lon': 2.2977904602885, 'lat': 48.873409276267}",,True
+31709,Place de la Fraternité,0,"{'lon': 2.422847449779511, 'lat': 48.85716405838368}",,True
+3001,Beaumarchais - Saint-Gilles,0,"{'lon': 2.3679352, 'lat': 48.8580378}",,True
+3012,Square Emile - Chautemps,0,"{'lon': 2.3536357283592, 'lat': 48.867433724231}",,True
+13125,Gare d'Austerlitz - Pont Charles de Gaulle,0,"{'lon': 2.3670300096273, 'lat': 48.842319830109}",,True
+4012,Tiron - Rivoli,0,"{'lon': 2.3579058051109, 'lat': 48.855692253233}",,True
+21215,Verdier - Jean Jaurès,0,"{'lon': 2.3123561963438988, 'lat': 48.81614048711214}",,True
+13054,Pau Casals - Neuve Tolbiac,0,"{'lon': 2.3774395, 'lat': 48.8311602}",,True
+48012,Stalingrad - Henri Luisette,0,"{'lon': 2.366935946761926, 'lat': 48.78363092456589}",,True
+32605,Mairie,0,"{'lon': 2.4163350908311, 'lat': 48.87914304162}",,True
+23206,Béranger - Félix Faure,0,"{'lon': 2.2848263373723436, 'lat': 48.80404828621485}",,True
+20032,Square des Amandiers,0,"{'lon': 2.3891324177384377, 'lat': 48.86615630668046}",,True
+16022,Jean Bologne - Passy,0,"{'lon': 2.280027395306772, 'lat': 48.857566889784465}",,True
+21016,Point du Jour - Jean Jaurès,0,"{'lon': 2.245911467014621, 'lat': 48.828753141436465}",,True
+11038,Temple - Charlot,0,"{'lon': 2.3652737250724, 'lat': 48.865709343796}",,True
+35021,Cartier Bresson - Denis Papin,0,"{'lon': 2.397814, 'lat': 48.902616}",,True
+11001,Richard Lenoir - Place de la Bastille,0,"{'lon': 2.3697222, 'lat': 48.8538327}",,True
+23204,Roland Garros - Jean Bouin,0,"{'lon': 2.2853198638301, 'lat': 48.809460857173}",,True
+10026,Gare de l'Est - Chateau Landon,0,"{'lon': 2.362424, 'lat': 48.879305}",,True
+18026,Ruisseau - Ordener,0,"{'lon': 2.340144887566567, 'lat': 48.89299462568024}",,True
+3004,Place de la République - Temple,3,"{'lon': 2.3635464370545, 'lat': 48.867211201859}",,False
+15105,Fédération - Suffren,0,"{'lon': 2.2978776320815, 'lat': 48.852828153442}",,True
+33019,Madeleine Vionnet,2,"{'lon': 2.3740895837545, 'lat': 48.902519074064}",,False
+4005,Quai des Célestins - Henri IV,0,"{'lon': 2.3624535, 'lat': 48.8512971}",,True
+11104,Charonne - Robert et Sonia Delaunay,0,"{'lon': 2.3925706744194, 'lat': 48.855907555969}",,True
+19027,Serrurier,0,"{'lon': 2.398064173758, 'lat': 48.880493403246}",,True
+17040,Pereire - Ternes,0,"{'lon': 2.288012132048607, 'lat': 48.87973954830735}",,True
+11002,Roquette - Thiéré,0,"{'lon': 2.3733686318721463, 'lat': 48.85507930579506}",,True
+14138,Porte de Vanves,0,"{'lon': 2.3056878894567, 'lat': 48.828012849445}",,True
+44013,Edouard Tremblay - Julian Grimaux,0,"{'lon': 2.3723508417606, 'lat': 48.781383825117}",,True
+21015,Nationale - Place Jules Guesde,0,"{'lon': 2.2416052222251897, 'lat': 48.82753962462998}",,True
+22402,Jean Jaurès - Salvador Allende,0,"{'lon': 2.3026576638221745, 'lat': 48.821475594736775}",,True
+43005,Gare RER de Vincennes,0,"{'lon': 2.433383166790009, 'lat': 48.847563015126106}",,True
+22003,Beffroy,0,"{'lon': 2.2613945603371, 'lat': 48.886591074488}",,True
+13050,Quai Panhard et Levassor,0,"{'lon': 2.3842737458056, 'lat': 48.828374828097}",,True
+32302,Chemin Vert - Fraternité,0,"{'lon': 2.4461565166711807, 'lat': 48.877141208359035}",,True
+16040,Exelmans - Michel-Ange,0,"{'lon': 2.2597770800669053, 'lat': 48.84309486651855}",,True
+14036,Boulard - Daguerre,0,"{'lon': 2.3293386027216907, 'lat': 48.83446472680611}",,True
+17037,Bayen - Pereire,3,"{'lon': 2.2921088710427284, 'lat': 48.881804409079656}",,False
+33001,Victor Hugo - Magasins Généraux,0,"{'lon': 2.368072383105755, 'lat': 48.903281401126755}",,True
+8055,Courcelles - Place des Ternes,7,"{'lon': 2.2992860188665043, 'lat': 48.878199928923124}",,False
+12024,Gare de Bercy,0,"{'lon': 2.3826066032052, 'lat': 48.839794573906}",,True
+14104,Boyer-Barret - Raymond Losserand,0,"{'lon': 2.3173383995890617, 'lat': 48.83329880233322}",,True
+14018,Porte d'Orléans,0,"{'lon': 2.3249313, 'lat': 48.8227639}",,True
+18109,Pajol - Riquet,0,"{'lon': 2.3628534749150276, 'lat': 48.88960028134536}",,True
+35003,Gabrielle Josserand - Edouard Vaillant,0,"{'lon': 2.3933270573616032, 'lat': 48.90271566255436}",,True
+16029,Maison de Radio - France,5,"{'lon': 2.277785539627075, 'lat': 48.85132886434057}",,False
+19041,Belleville - Pyrénées,1,"{'lon': 2.3860039, 'lat': 48.8741908}",,False
+23403,Chateau,0,"{'lon': 2.3135878035462, 'lat': 48.774661399959}",,True
+19023,Manin - Simon Bolivar,0,"{'lon': 2.3794073625991, 'lat': 48.876499654127}",,True
+23008,Hôtel de Ville de Levallois Perret,0,"{'lon': 2.2888818383216862, 'lat': 48.89314451997415}",,True
+10164,Claude Vellefaux - Sambre et Meuse,0,"{'lon': 2.370478, 'lat': 48.875022}",,True
+4109,Mornay - Sully,0,"{'lon': 2.364460788667202, 'lat': 48.84970399548416}",,True
+2101,Bachaumont - Montmartre,0,"{'lon': 2.3449775576591496, 'lat': 48.86617395079137}",,True
+21952,Place Tony de Graaff,0,"{'lon': 2.2458109, 'lat': 48.8181645}",,True
+11110,Roquette - Folie Regnault,8,"{'lon': 2.386553623578705, 'lat': 48.859246959155485}",,False
+14128,Gergovie - Vercingétorix,0,"{'lon': 2.313154547426182, 'lat': 48.83453413883994}",,True
+17001,Guy Môquet - Saint-Ouen,4,"{'lon': 2.3270335793495183, 'lat': 48.892777719023975}",,False
+21708,Marcel Yol - Jullien,0,"{'lon': 2.287235018058929, 'lat': 48.82537611802588}",,True
+41210,Hôtel de ville de Fontenay-sous-Bois,0,"{'lon': 2.4750164151191716, 'lat': 48.84949749106274}",,True
+21702,Gare SNCF Vanves-Malakoff,0,"{'lon': 2.292150005103606, 'lat': 48.819002163836444}",,True
+15052,Convention - Vaugirard,0,"{'lon': 2.295586926020252, 'lat': 48.83767682233156}",,True
+8001,Petit Palais,0,"{'lon': 2.3157655, 'lat': 48.8667692}",,True
+20007,Buzenval - Avron,0,"{'lon': 2.4015135973077, 'lat': 48.851617204999}",,True
+15030,Emeriau - Beaugrenelle,0,"{'lon': 2.2843059897422795, 'lat': 48.84791249714942}",,True
+35007,Benjamin Delessert - Jean Lolive,0,"{'lon': 2.417981922626496, 'lat': 48.89392043619345}",,True
+13044,Place Jeanne d'Arc,0,"{'lon': 2.369126, 'lat': 48.829575}",,True
+41205,Maréchal Joffre - Verdun,0,"{'lon': 2.470307, 'lat': 48.85385}",,True
+44005,Place Saint-Just,0,"{'lon': 2.3895226791501045, 'lat': 48.790379518724265}",,True
+15011,Cambronne - Villa Croix Nivert,0,"{'lon': 2.3017574474216, 'lat': 48.845847561366}",,True
+5115,Buffon - Jardin des Plantes,0,"{'lon': 2.3618587106466293, 'lat': 48.842668466104875}",,True
+21707,Square Etienne Jarousse,0,"{'lon': 2.2925933450460434, 'lat': 48.82485182597129}",,True
+21402,Place Aimé Césaire,0,"{'lon': 2.2429127991199493, 'lat': 48.783194713067815}",,True
+33012,Landy - Heurtault,0,"{'lon': 2.375951372087002, 'lat': 48.915096534520316}",,True
+10032,Claude Vellefaux - Hôpital Saint-Louis,0,"{'lon': 2.3700717069851, 'lat': 48.872859139003}",,True
+48004,Maxime Gorki - Louis Aragon,0,"{'lon': 2.368387877941132, 'lat': 48.78909814728443}",,True
+5015,Epée de Bois - Mouffetard,0,"{'lon': 2.350066713988781, 'lat': 48.841508690388835}",,True
+20001,Place de la Nation - Charonne,0,"{'lon': 2.3997623859813, 'lat': 48.848364667777}",,True
+18034,Leibniz - Jean Dollfus,0,"{'lon': 2.333390423834684, 'lat': 48.896328348515986}",,True
+14137,Maurice d'Ocagne - General Maudhuy,0,"{'lon': 2.3158789426088333, 'lat': 48.82414282524159}",,True
+12002,Lacuée - Lyon,0,"{'lon': 2.3704585433006, 'lat': 48.849268481958}",,True
+15111,Olivier de Serres - Leriche,2,"{'lon': 2.2957482933998112, 'lat': 48.83460221715206}",,False
+48005,Eugène Varlin - Place de la Paix,0,"{'lon': 2.363093, 'lat': 48.792862}",,True
+42026,Barbès - Monique Maunoury,0,"{'lon': 2.3687169334905405, 'lat': 48.81552718820216}",,True
+22601,Marx Dormoy - Château Sainte-Barbe,0,"{'lon': 2.297856844961643, 'lat': 48.791782341055324}",,True
+16139,Suresnes - Muette à Neuilly,0,"{'lon': 2.266000919044, 'lat': 48.868570404348}",,True
+2109,Réaumur - Montmartre,0,"{'lon': 2.3438260338876, 'lat': 48.868230999759}",,True
+23104,Quai de Sèvres - Manufacture Nationale,0,"{'lon': 2.22499, 'lat': 48.828688}",,True
+20048,Bagnolet - Place Saint-Blaise,0,"{'lon': 2.40334, 'lat': 48.85973}",,True
+13049,Vincent Auriol - Louise Weiss,0,"{'lon': 2.3703888058662, 'lat': 48.834001935501}",,True
+13015,Chevaleret - Louise Weiss,0,"{'lon': 2.37121138812, 'lat': 48.832586513351}",,True
+20020,Pyrénées - Charles Renouvier,0,"{'lon': 2.400421852042113, 'lat': 48.86095933229224}",,True
+12008,Hector Malot - Daumesnil,0,"{'lon': 2.3770876228809357, 'lat': 48.84693552991762}",,True
+16023,Passy - Place du Costa Rica,0,"{'lon': 2.2839655, 'lat': 48.8584893}",,True
+19123,Metz - Marne,0,"{'lon': 2.3865705, 'lat': 48.891163}",,True
+25009,Place des Arts - Jean Mermoz,0,"{'lon': 2.1832160452221, 'lat': 48.880391139734}",,True
+41101,Paul Doumer - Stalingrad,0,"{'lon': 2.3368880152702, 'lat': 48.806518992199}",,True
+18023,Ordener - Poissonniers,0,"{'lon': 2.351288666219873, 'lat': 48.891213890844654}",,True
+11020,Belfort - Voltaire,0,"{'lon': 2.3829901, 'lat': 48.8563358}",,True
+21213,Vanne - Général de Gaulle,0,"{'lon': 2.328318, 'lat': 48.815007}",,True
+10031,Louis Blanc - Aqueduc,0,"{'lon': 2.363561578095, 'lat': 48.882030182599}",,True
+15026,Bir Hakeim,0,"{'lon': 2.289705348222, 'lat': 48.853844054334}",,True
+6001,Institut de France,0,"{'lon': 2.3358313530377, 'lat': 48.857615678565}",,True
+12127,Tremblay - Lac des Minimes,0,"{'lon': 2.4547516554594, 'lat': 48.834131261494}",,True
+8004,Malesherbes - Place de la Madeleine,0,"{'lon': 2.323243509808, 'lat': 48.870406028483}",,True
+15202,Bracion - Périphérique,0,"{'lon': 2.3004549373748, 'lat': 48.826103771275}",,True
+13101,Croulebarde - Corvisart,2,"{'lon': 2.3481646925210953, 'lat': 48.830981659316855}",,False
+8103,Artois - Berri,0,"{'lon': 2.3064258322119713, 'lat': 48.87393521240818}",,True
+43009,Place Jean-Spire-Lemaître,0,"{'lon': 2.452062070369721, 'lat': 48.8468428626593}",,True
+10115,Granges aux Belles,5,"{'lon': 2.3680844979417, 'lat': 48.8761373390584}",,False
+17008,Porte Pouchet-Bessières,0,"{'lon': 2.3230632, 'lat': 48.8978765}",,True
+11047,Amelot - Saint-Sébastien,0,"{'lon': 2.3677996181077, 'lat': 48.861142162761}",,True
+14020,Cimetière de Montrouge,0,"{'lon': 2.3215785772007, 'lat': 48.821466904768}",,True
+44006,Concorde - Stalingrad,0,"{'lon': 2.3821302, 'lat': 48.7985844}",,True
+11113,Richard Lenoir - Republique,0,"{'lon': 2.3692541, 'lat': 48.8667175}",,True
+19101,Square Simon Bolivar,3,"{'lon': 2.3826304078102, 'lat': 48.875089888322}",,False
+21005,Hôtel de Ville de Boulogne Billancourt,0,"{'lon': 2.2416803240776066, 'lat': 48.83495885166784}",,True
+15046,Parc Georges Brassens - Brancion,3,"{'lon': 2.3022570088505745, 'lat': 48.83227829269761}",,False
+21301,Saint-Vincent - Verdun,0,"{'lon': 2.254007756710053, 'lat': 48.819211549234495}",,True
+9032,Mathurins - Auber,0,"{'lon': 2.3294984212276, 'lat': 48.872988840744}",,True
+32026,Leroy des Barres - Médiathèque,0,"{'lon': 2.3681719727966, 'lat': 48.928253687082}",,True
+8035,Bienfaisance - Place de Narvik,0,"{'lon': 2.3129771277308464, 'lat': 48.87660163459077}",,True
+35018,Ancien Canal - Hélène Brion,0,"{'lon': 2.4188338592648506, 'lat': 48.89484799296163}",,True
+6013,Jacques Callot - Mazarine,6,"{'lon': 2.3375743255019, 'lat': 48.855280175332}",,False
+15010,Square Cambronne,0,"{'lon': 2.3025691509247, 'lat': 48.84756654526}",,True
+22505,Mairie de La Garenne Colombes,0,"{'lon': 2.24679596722126, 'lat': 48.90663823468682}",,True
+42503,Vladimir Ilitch Lénine - Andrée Chedid,0,"{'lon': 2.3319716067039, 'lat': 48.813240124373}",,True
+11114,Ledru-Rollin - Charonne,0,"{'lon': 2.3772463581947094, 'lat': 48.85345855607243}",,True
+20021,Indre - Prairies,0,"{'lon': 2.403290458023548, 'lat': 48.86254398506782}",,True
+19109,Tanger - Place du Maroc,0,"{'lon': 2.3689296841621403, 'lat': 48.8862524447104}",,True
+9031,Provence - Chaussée d'Antin,0,"{'lon': 2.332976511564311, 'lat': 48.87428447542072}",,True
+11006,Ledru-Rollin - Place du Père Chaillet,0,"{'lon': 2.379020587761426, 'lat': 48.856433706943704}",,True
+47005,Ecole Vétérinaire,0,"{'lon': 2.4224362157778994, 'lat': 48.81488859822486}",,True
+23007,Président Wilson - Jean Jaures,0,"{'lon': 2.2920683026313786, 'lat': 48.89034054052266}",,True
+7008,Villersexel - Saint-Germain,0,"{'lon': 2.3237934708595, 'lat': 48.858297001218}",,True
+32018,Franciade - Gabriel Péri,0,"{'lon': 2.355954498052597, 'lat': 48.93261499331498}",,True
+13114,Nationale - Marcel Duchamp,0,"{'lon': 2.3678014799952507, 'lat': 48.82463749337136}",,True
+14116,Romain Rolland,0,"{'lon': 2.3234144234418346, 'lat': 48.820215229662765}",,True
+2014,Daunou - Louis le Grand,0,"{'lon': 2.332515, 'lat': 48.869113}",,True
+31017,Jean Moulin - Paul Doumer,0,"{'lon': 2.45533436536789, 'lat': 48.8622179854695}",,True
+13047,Boutroux - Porte de Vitry,0,"{'lon': 2.377738, 'lat': 48.822632}",,True
+15019,Paul Barruel - Vaugirard,0,"{'lon': 2.3044332861900334, 'lat': 48.84014918546239}",,True
+11031,Jacquard - Ternaux,0,"{'lon': 2.373162, 'lat': 48.8646605}",,True
+13515,Auguste Blanqui - Glacière,0,"{'lon': 2.343822196126, 'lat': 48.831151602964}",,True
+16009,Saint-Didier - Raymond Poincaré,0,"{'lon': 2.285863497192411, 'lat': 48.86642312020962}",,True
+17039,Place Saint-Ferdinand,0,"{'lon': 2.288518047864942, 'lat': 48.87815529789739}",,True
+42305,Vanne - Saussaies,0,"{'lon': 2.338848, 'lat': 48.786404}",,True
+23902,Gallieni - Lycée Charles Petitet,0,"{'lon': 2.3308986340524, 'lat': 48.927640283627}",,True
+16020,Place de la Porte de Passy,0,"{'lon': 2.2644165538827115, 'lat': 48.857341095470794}",,True
+42003,Place de l'Insurrection d'Août 1944,0,"{'lon': 2.398074567317963, 'lat': 48.81477852751594}",,True
+13032,Italie - Jardin Joan Miro,0,"{'lon': 2.3592948541045193, 'lat': 48.81990914045756}",,True
+43010,La Jarry - Place Diderot,0,"{'lon': 2.452013790607453, 'lat': 48.849726940367326}",,True
+10162,Alexandre Parodi - Quai de Valmy,0,"{'lon': 2.3665961623192, 'lat': 48.879359419425}",,True
+27005,Gare du Stade,0,"{'lon': 2.2603778, 'lat': 48.9312676}",,True
+17111,Lemercier - Cardinet,0,"{'lon': 2.317377626895905, 'lat': 48.890097168851746}",,True
+14011,Place des Droits de l'Enfant,0,"{'lon': 2.3319217, 'lat': 48.8274804}",,True
+20034,Sorbier - Ménilmontant,0,"{'lon': 2.3897721245885, 'lat': 48.868542395661}",,True
+24006,Adolphe Lalyre - Armand Silvestre,0,"{'lon': 2.273416221141815, 'lat': 48.90406266961591}",,True
+35012,Candale - Mehul,0,"{'lon': 2.414379715919495, 'lat': 48.8893935006175}",,True
+4101,Bastille - Beaumarchais,0,"{'lon': 2.3685702681541, 'lat': 48.853833463852}",,True
+27001,Square Victor Basch,0,"{'lon': 2.2289156913757, 'lat': 48.914304862261}",,True
+1015,Place André Malraux,0,"{'lon': 2.3356226831675, 'lat': 48.863925158727}",,True
+12017,Saint-Mandé - Docteur Arnold Netter,0,"{'lon': 2.404946386814118, 'lat': 48.84462585769668}",,True
+16140,Hippodrome de Longchamp,0,"{'lon': 2.239905372262, 'lat': 48.86413226532}",,True
+21954,Val-Fleury,0,"{'lon': 2.2407217696309, 'lat': 48.807671407991}",,True
+23201,Avenir,0,"{'lon': 2.3003776, 'lat': 48.8103438}",,True
+23203,Division Leclerc - Kléber,0,"{'lon': 2.2833752789972, 'lat': 48.798666226364}",,True
+13205,Choisy - Pointe d'Ivry,0,"{'lon': 2.3633708034878, 'lat': 48.822154170359}",,True
+21501,Pont de Suresnes,0,"{'lon': 2.2258946679617, 'lat': 48.867415092322}",,True
+8057,Hoche - Tilsitt,0,"{'lon': 2.2971323132515, 'lat': 48.874836457837}",,True
+40010,Haut du Mont-Mesly,0,"{'lon': 2.4685737495183, 'lat': 48.780191921646}",,True
+40013,Hôtel de Ville de Créteil,0,"{'lon': 2.4552552404284, 'lat': 48.77699496201}",,True
+23011,Bineau - Louise Michel,0,"{'lon': 2.2843274474144, 'lat': 48.88666162207}",,True
+32004,Wilson - Landy,0,"{'lon': 2.357633225619793, 'lat': 48.91516726221354}",,True
+4010,Saint-Antoine Sévigné,0,"{'lon': 2.3612322, 'lat': 48.8550222}",,True
+16107,Benjamin Godard - Victor Hugo,0,"{'lon': 2.275725, 'lat': 48.865983}",,True
+17041,Guersant - Gouvion-Saint-Cyr,0,"{'lon': 2.287667370814871, 'lat': 48.88287775178599}",,True
+17026,Jouffroy d'Abbans - Wagram,0,"{'lon': 2.301132157445, 'lat': 48.881973298352}",,True
+18111,Félix Ziem - Armand Gauthier,0,"{'lon': 2.333393658804396, 'lat': 48.88949630486821}",,True
+17004,Legendre - Clichy,0,"{'lon': 2.322528975094376, 'lat': 48.88896161855884}",,True
+20042,Pyrénées - Emmery,0,"{'lon': 2.392039597034455, 'lat': 48.872010281270974}",,True
+14124,David Weill - Parc Montsouris,0,"{'lon': 2.333725690841675, 'lat': 48.821092374256104}",,True
+42021,Raspail - Manufacture des Oeillets,0,"{'lon': 2.3903009, 'lat': 48.8094458}",,True
+18009,Jean-François Lépine - Stephenson,0,"{'lon': 2.356855627529275, 'lat': 48.88611466796807}",,True
+16008,Galilée - Kléber,0,"{'lon': 2.2907813801148, 'lat': 48.867411865714}",,True
+19029,Seine - Flandre,0,"{'lon': 2.3746193200349808, 'lat': 48.886785741479684}",,True
+20119,Square des Saint-Simoniens,0,"{'lon': 2.3967273, 'lat': 48.8701796}",,True
+15029,Emeriau - Place de Brazzaville,0,"{'lon': 2.2871585190296173, 'lat': 48.850785261674964}",,True
+12032,Porte Dorée,0,"{'lon': 2.4077132, 'lat': 48.8354337}",,True
+51003,Hôtel de Ville d'Argenteuil,0,"{'lon': 2.2496396, 'lat': 48.946504}",,True
+13043,Dunois - Clisson,0,"{'lon': 2.3674523, 'lat': 48.832294}",,True
+14122,Colonel Monteil - Brune,0,"{'lon': 2.3092747998272, 'lat': 48.82650293311}",,True
+6016,Danton - Serpente,0,"{'lon': 2.3414132371545, 'lat': 48.852297362582}",,True
+16021,François Ponsard - La Muette,0,"{'lon': 2.2744515, 'lat': 48.8583666}",,True
+19127,Aubervilliers - Curial,0,"{'lon': 2.3688579350709915, 'lat': 48.89088305227546}",,True
+1120,Lavandieres Sainte Opportune - Rivoli,0,"{'lon': 2.3466217517853, 'lat': 48.859279702476}",,True
+11043,Place Pasdeloup,0,"{'lon': 2.3670325062844, 'lat': 48.862654215631}",,True
+31023,Place François Mitterand,0,"{'lon': 2.442958317697048, 'lat': 48.86492782016328}",,True
+12041,Bois de Vincennes.,7,"{'lon': 2.4132221, 'lat': 48.8338064}",,False
+2110,Jeûneurs - Mulhouse,0,"{'lon': 2.346925, 'lat': 48.868997}",,True
+7026,Place de Finlande,0,"{'lon': 2.3113624379039, 'lat': 48.862408335967}",,True
+8105,François 1er - Lincoln,0,"{'lon': 2.3024262188416, 'lat': 48.869517979344}",,True
+8049,Georges V - François 1er,0,"{'lon': 2.30082, 'lat': 48.87034}",,True
+17005,Brochant - Clichy,0,"{'lon': 2.319730559929781, 'lat': 48.89032998912038}",,True
+31026,Demi-Lune - Aristide Briand,0,"{'lon': 2.4562818557024, 'lat': 48.87626381919953}",,True
+21203,Place Jules Ferry,0,"{'lon': 2.325837314128876, 'lat': 48.812107928414775}",,True
+15023,La Motte-Picquet - Grenelle,0,"{'lon': 2.299347817897797, 'lat': 48.84858321339195}",,True
+9004,Gérando - Rochechouart,0,"{'lon': 2.3464846238494, 'lat': 48.88294340845}",,True
+32601,Porte des Lilas - Faidherbe,1,"{'lon': 2.4120327830314636, 'lat': 48.87861855668978}",,False
+9034,Godot de Mauroy - Madeleine,0,"{'lon': 2.326347, 'lat': 48.869789}",,True
+12015,Place de la Nation - Picpus,0,"{'lon': 2.4001130461693, 'lat': 48.846821681548}",,True
+12037,Reuilly - Daumesnil,0,"{'lon': 2.3972516, 'lat': 48.8395385}",,True
+20024,Gambetta - Père Lachaise,0,"{'lon': 2.398228667282044, 'lat': 48.864295696165875}",,True
+6104,Herschel - Observatoire,0,"{'lon': 2.3376645147800446, 'lat': 48.84342376221923}",,True
+16102,Pergolèse - Marbeau,0,"{'lon': 2.2815125225299, 'lat': 48.873568706869}",,True
+3011,Turbigo - Réaumur,0,"{'lon': 2.3564198613167, 'lat': 48.865574047531}",,True
+14022,Didot - Mariniers,0,"{'lon': 2.313136198271666, 'lat': 48.82650543613106}",,True
+19130,Place Paul Delouvrier,0,"{'lon': 2.3851288855075836, 'lat': 48.89197621431365}",,True
+32019,Place du 8 mai 1945.,0,"{'lon': 2.3566243797541, 'lat': 48.938882272105}",,True
+18015,Custine - Ramey,0,"{'lon': 2.3469526693225, 'lat': 48.888735896947}",,True
+1017,Saint-Honoré - 29 juillet,5,"{'lon': 2.330567417577153, 'lat': 48.86557114282421}",,False
+6026,Saint-Placide - Cherche Midi,0,"{'lon': 2.325317971408367, 'lat': 48.8490535919234}",,True
+12016,Saint-Mande - Picpus,3,"{'lon': 2.4015686296482, 'lat': 48.845127728278}",,False
+11111,Léon Frot - Charonne,0,"{'lon': 2.387217085372007, 'lat': 48.854963800335234}",,True
+13120,Pierre Joseph Desault,2,"{'lon': 2.378775402903557, 'lat': 48.82110230800372}",,False
+20005,Reynaldo Hahn - Lagny,0,"{'lon': 2.412330328844772, 'lat': 48.849266043601794}",,True
+15014,Volontaires - Vaugirard,3,"{'lon': 2.30808901725357, 'lat': 48.84132050184004}",,False
+21027,Fief - République,0,"{'lon': 2.255771979689598, 'lat': 48.83170888166024}",,True
+19001,Crimée - Ourcq,0,"{'lon': 2.3729460884673, 'lat': 48.894104140316}",,True
+13013,Saint-Marcel - Hôpital,0,"{'lon': 2.3609894170229, 'lat': 48.839504424583}",,True
+24010,Charles de Gaulle - Rue de l'Alma,0,"{'lon': 2.252313240191, 'lat': 48.896620592993}",,True
+32023,Guy Môquet - Jean Moulin,0,"{'lon': 2.363948999931771, 'lat': 48.940931521020836}",,True
+12001,Bastille - Biscornet,0,"{'lon': 2.369220033288, 'lat': 48.851355779579}",,True
+26008,Henri Barbusse - Bourguignons,0,"{'lon': 2.2734212270774417, 'lat': 48.91301722799713}",,True
+31301,Gare RER,0,"{'lon': 2.4581568985227, 'lat': 48.896280181078}",,True
+13051,Halle Freyssinet - Parvis Alan Turing,0,"{'lon': 2.3711421713233, 'lat': 48.832846814471}",,True
+8038,François 1er - Montaigne,3,"{'lon': 2.3066755757207, 'lat': 48.866887649978}",,False
+11102,Alexandre Dumas - Voltaire,0,"{'lon': 2.3891476408096, 'lat': 48.852888670365}",,True
+13118_relais,Regnault - Patay,0,"{'lon': 2.3763057589531, 'lat': 48.824305287067}",,True
+1022,Danielle Casanova - Place Vendôme,0,"{'lon': 2.3304839059711, 'lat': 48.868266498223}",,True
+19203,Pailleron - Bouret,0,"{'lon': 2.3763902374411, 'lat': 48.880516995482}",,True
+25006,Place Nelson Mandela,0,"{'lon': 2.1961666225454, 'lat': 48.862453313908}",,True
+2017,Caire - Dussoubs,0,"{'lon': 2.349364310503006, 'lat': 48.86785342111862}",,True
+13118,Regnault - Patay,8,"{'lon': 2.377065159380436, 'lat': 48.82435782216384}",,False
+8009,Gare Saint-Lazare - Isly,0,"{'lon': 2.326515804784655, 'lat': 48.874777677621296}",,True
+9028,Moncey - Blanche,0,"{'lon': 2.3310810327529907, 'lat': 48.88006587474148}",,True
+16039,Exelmans - Versailles,0,"{'lon': 2.264390252530575, 'lat': 48.84097491091973}",,True
+5032,Panthéon - Valette,0,"{'lon': 2.3464982619671, 'lat': 48.847020571652}",,True
+10042,Enghien - Faubourg Poissonnière,0,"{'lon': 2.3483952362828, 'lat': 48.872420063053}",,True
+19024,Botzaris - Parc des Buttes Chaumont,0,"{'lon': 2.381464, 'lat': 48.877951}",,True
+19022,Marché Secrétan,0,"{'lon': 2.373463287949562, 'lat': 48.88125496379482}",,True
+44010,8 Mai 1945 - 10 Juillet 1940,0,"{'lon': 2.3979035764933, 'lat': 48.784567029674}",,True
+20043,Charonne - Avron,0,"{'lon': 2.3984030470379, 'lat': 48.851602665222}",,True
+42015,Place Jean Ferrat,0,"{'lon': 2.3744174838066106, 'lat': 48.8184945213025}",,True
+12027,Montgallet - Charenton,0,"{'lon': 2.3861649278137, 'lat': 48.842647778701}",,True
+17102,Alfred Roll - Berthier,1,"{'lon': 2.3000952981763, 'lat': 48.887808570529}",,False
+23001,Paul Vaillant Couturier - Chaptal,0,"{'lon': 2.2775253653526, 'lat': 48.893479576183}",,True
+31702,Pierre et Marie Curie - Julien Grimau,0,"{'lon': 2.424097023904324, 'lat': 48.870714014863225}",,True
+15035,Place Etienne Pernet,0,"{'lon': 2.2921819612383847, 'lat': 48.84243457133779}",,True
+16015,Bassano -  Iéna,0,"{'lon': 2.296149600985935, 'lat': 48.868144510482075}",,True
+16027,Mozart - Jasmin,0,"{'lon': 2.268483570651513, 'lat': 48.85286124871689}",,True
+14030,Pernety - Raymond Losserand,0,"{'lon': 2.317609339387, 'lat': 48.834254627953}",,True
+6032,Sabot - Rennes,0,"{'lon': 2.331552766263485, 'lat': 48.852575112948415}",,True
+1117,Pont Neuf - Rivoli,0,"{'lon': 2.344057559967, 'lat': 48.860089892617}",,True
+23903,Stade Gaston Bouillant,0,"{'lon': 2.3279571813836, 'lat': 48.939958667023}",,True
+13041,Porte d'Ivry,7,"{'lon': 2.3688706755638, 'lat': 48.821768747596}",,False
+7013,Duroc - Place de Breteuil,0,"{'lon': 2.3126140236855, 'lat': 48.847460641142}",,True
+19031,Manin - Crimée,4,"{'lon': 2.3863670602440834, 'lat': 48.8831217743719}",,False
+31018,Gambetta - Michelet,0,"{'lon': 2.429966032505036, 'lat': 48.85273792380526}",,True
+14007,Ferrus - Saint-Jacques,0,"{'lon': 2.3408563, 'lat': 48.8313878}",,True
+14016,René Coty - Parc Montsouris,0,"{'lon': 2.336124926805496, 'lat': 48.82479134498032}",,True
+21951,Place Centrale,0,"{'lon': 2.2278830409049992, 'lat': 48.78740167690531}",,True
+16101,Malakoff - Place de la Porte Maillot,0,"{'lon': 2.2834577411413, 'lat': 48.876733496638}",,True
+8013,Marignan - Champs-Elysées,0,"{'lon': 2.3066138139003, 'lat': 48.869495661232}",,True
+6008,Assas - Luxembourg,0,"{'lon': 2.3334283818759, 'lat': 48.843734468779}",,True
+92001,Mairie de quartier du Plateau - Mont-Valérien,0,"{'lon': 2.2072437, 'lat': 48.8799933}",,True
+17107,Berthier - Place Stuart Merril,0,"{'lon': 2.2933450341224675, 'lat': 48.885927922355044}",,True
+17024,Villiers - Batignolles,0,"{'lon': 2.31653843075037, 'lat': 48.88125253846116}",,True
+1006,Grande Truanderie - Saint-Denis,0,"{'lon': 2.3498075, 'lat': 48.8626302}",,True
+7012,Cité Vaneau,0,"{'lon': 2.319614924490452, 'lat': 48.8542210666207}",,True
+20008,Pyrénées - Avron,0,"{'lon': 2.405871044529538, 'lat': 48.853246898211985}",,True
+20029,Frères Flavien - Porte des Lilas,0,"{'lon': 2.41104629853209, 'lat': 48.8780992764359}",,True
+23702,Hôtel de Ville de Chaville,0,"{'lon': 2.188134044408798, 'lat': 48.80887149094033}",,True
+4017,Place de l'Hôtel de Ville,0,"{'lon': 2.351458, 'lat': 48.8573314}",,True
+9039,Chaussée d'Antin - Haussmann,0,"{'lon': 2.33359, 'lat': 48.87243}",,True
+35005,Quai de l'Aisne - Général Leclerc,0,"{'lon': 2.400571, 'lat': 48.895713}",,True
+1024,Coquillière - Louvre,0,"{'lon': 2.3425736278296, 'lat': 48.863795909662}",,True
+20140,Paganini - Davout,0,"{'lon': 2.412021, 'lat': 48.85135}",,True
+15018,Dutot - Place Alleray,0,"{'lon': 2.3071701095578, 'lat': 48.836826091766}",,True
+51008,Martyrs de Châteaubriant - Jean Grandel,0,"{'lon': 2.211214, 'lat': 48.951432}",,True
+42024,Danielle Casanova - Ledru-Rollin,0,"{'lon': 2.383259721100331, 'lat': 48.815783497876815}",,True
+13116,Place du Docteur Yersin,0,"{'lon': 2.3725583776831627, 'lat': 48.82010494991975}",,True
+18016,Francoeur - Caulaincourt,0,"{'lon': 2.342529706656933, 'lat': 48.8899944409612}",,True
+21022,Dôme - République,0,"{'lon': 2.250257, 'lat': 48.832681}",,True
+20012,Buzenval - Vignoles,0,"{'lon': 2.4000040814281, 'lat': 48.853858171688}",,True
+13006,Duméril - Jeanne d'Arc,0,"{'lon': 2.3571084495564, 'lat': 48.838151608087}",,True
+22404,Pierre Brossolette - 12 Février 1934,0,"{'lon': 2.3076123744249344, 'lat': 48.8176962416867}",,True
+20110,Gambetta - Tourelles,0,"{'lon': 2.4059921130538, 'lat': 48.875337902264}",,True
+15120,Colonel Pierre Avia,0,"{'lon': 2.275342586850291, 'lat': 48.8296843300915}",,True
+22014,Victor Hugo - Bineau,0,"{'lon': 2.2783890366554265, 'lat': 48.88758225888669}",,True
+21007,Rond-Point Rhin et Danube,0,"{'lon': 2.2280225157737736, 'lat': 48.840452820991764}",,True
+22007,Commandant Charcot - Bretteville,0,"{'lon': 2.2558460757136345, 'lat': 48.87530570765423}",,True
+14110,Abbé Carton - Plantes,0,"{'lon': 2.3209181427956, 'lat': 48.827673823166}",,True
+22018,Charles de Gaulle - Les Sablons,0,"{'lon': 2.2715748726513, 'lat': 48.880987514929}",,True
+31201,Suzanne Masson,0,"{'lon': 2.3847292397611, 'lat': 48.923306888013}",,True
+13035,Choisy - Tolbiac,0,"{'lon': 2.3602393269539, 'lat': 48.82591155587}",,True
+7109,Place Joffre - Frédéric le Play,0,"{'lon': 2.3044242337346, 'lat': 48.853754486938}",,True
+40004,Créteil Village,0,"{'lon': 2.4642198533952, 'lat': 48.79122395576}",,True
+20137,Borrégo - Gambetta,0,"{'lon': 2.4014145880937576, 'lat': 48.87330497045532}",,True
+18043,Clichy - Place Blanche,0,"{'lon': 2.3332237824798, 'lat': 48.883601088297}",,True
+34014,Michelet - Dr Bauer,0,"{'lon': 2.3440374449846, 'lat': 48.906125424194}",,True
+17032,Jean Oestreicher - Porte de Champerret,0,"{'lon': 2.288640439510346, 'lat': 48.88655580065981}",,True
+31706,Château - République,0,"{'lon': 2.4155035614967, 'lat': 48.862923800596}",,True
+12111,Claude Decaen - Cannebière,0,"{'lon': 2.397253782195704, 'lat': 48.83761417037952}",,True
+2111,Chabanais - Petits Champs,0,"{'lon': 2.336716018617153, 'lat': 48.86703740186721}",,True
+21209,Molière - République,0,"{'lon': 2.3145738624448158, 'lat': 48.81111581390707}",,True
+48010,Karl Marx,0,"{'lon': 2.3646667979455587, 'lat': 48.784527937293184}",,True
+16202,Commandant Schloesing - Pétrarque,1,"{'lon': 2.2838841134601, 'lat': 48.861773096259}",,False
+16038,Molitor - Chardon-Lagache,0,"{'lon': 2.2656840831041, 'lat': 48.845208801832}",,True
+21104,Madame de Sanzillon - Mozart,0,"{'lon': 2.3187401890754704, 'lat': 48.90379820774301}",,True
+20121,Boyer - Ménilmontant,0,"{'lon': 2.3919824145635, 'lat': 48.868895162679}",,True
+5123,Saint-Germain - Thenard,0,"{'lon': 2.3471015, 'lat': 48.850571}",,True
+16111,Faustin Hélie - Desbordes-Valmore,0,"{'lon': 2.276522, 'lat': 48.859403}",,True
+12034,Pirogues de Bercy - Libourne,0,"{'lon': 2.38637, 'lat': 48.832308}",,True
+20113,Piat - Parc de Belleville,0,"{'lon': 2.384981390278095, 'lat': 48.87195626635528}",,True
+20036,Ménilmontant - Pelleport,0,"{'lon': 2.3989596023316, 'lat': 48.870682633845}",,True
+92004,Nanterre - Université,0,"{'lon': 2.212693, 'lat': 48.901365}",,True
+23002,Pont de Levallois-bécon,0,"{'lon': 2.2791311, 'lat': 48.8984179}",,True
+6103,Mézières - Rennes,0,"{'lon': 2.3303819820284843, 'lat': 48.85023459321703}",,True
+21032,Sèvres-Gallieni,0,"{'lon': 2.2281519323587, 'lat': 48.837809408957}",,True
+32014,Place du Cornillon - Stade de France,0,"{'lon': 2.3644426837563515, 'lat': 48.92540695835961}",,True
+21703,Square du Carrefour de l'Insurrection,0,"{'lon': 2.291113436222077, 'lat': 48.820864559770676}",,True
+34010,Hôtel de Ville de Saint-Ouen,0,"{'lon': 2.3340076807601, 'lat': 48.911380185786}",,True
+17022,Pereire - Place de Wagram,0,"{'lon': 2.304111124531457, 'lat': 48.887070607581215}",,True
+3101,Porte Saint-Martin,0,"{'lon': 2.35570102930069, 'lat': 48.86860172112996}",,True
+42011,Quai Marcel Boyer - Victor Hugo,0,"{'lon': 2.3920395970345, 'lat': 48.822556366667}",,True
+22103,Senard - Charles Blum,0,"{'lon': 2.221091687679291, 'lat': 48.857315824799}",,True
+19124,Alexander Fleming - Belvédère,0,"{'lon': 2.4030599377642674, 'lat': 48.88179064200294}",,True
+12125,Pyramide - Parc Floral,1,"{'lon': 2.440452, 'lat': 48.837442}",,False
+11109,Pierre Levée - Fontaine Timbaud,0,"{'lon': 2.3711163550615306, 'lat': 48.86632723374305}",,True
+21031,Cimetière de Boulogne-Billancourt,0,"{'lon': 2.252024, 'lat': 48.830764}",,True
+16024,Ranelagh - Maison de la Radio,0,"{'lon': 2.280449643731117, 'lat': 48.85293603169479}",,True
+13121,Bruneseau - Quai d'Ivry,0,"{'lon': 2.3885661363602, 'lat': 48.824945637583}",,True
+13126,Place Nationale - Château-des-Rentiers,0,"{'lon': 2.365212, 'lat': 48.829268}",,True
+40009,Lycée Saint Exupéry - Juliette Savar,0,"{'lon': 2.4637357216879, 'lat': 48.783021513972}",,True
+44007,Camille Groult - Guy Môquet,0,"{'lon': 2.3976725712418556, 'lat': 48.787482746521306}",,True
+9114,Faubourg Poissonnière - Dunkerque,0,"{'lon': 2.349934279918671, 'lat': 48.880883445404436}",,True
+1021,Halles - Bourdonnais,0,"{'lon': 2.3460162431002, 'lat': 48.860448992575}",,True
+21314,Chemin de Bretagne,0,"{'lon': 2.2588385956052, 'lat': 48.824753068884}",,True
+12155,Rottembourg - Général Michel Bizot,0,"{'lon': 2.4044052511453633, 'lat': 48.83787825992554}",,True
+13018,Bruant - Vincent Auriol,0,"{'lon': 2.3668264996271, 'lat': 48.834848452929}",,True
+13052,Leredde - Tolbiac,0,"{'lon': 2.3744382709265, 'lat': 48.82887629664}",,True
+16019,Porte de la Muette,0,"{'lon': 2.2687188170157406, 'lat': 48.86302317841182}",,True
+10019,Paradis - Hauteville,0,"{'lon': 2.3522757401923404, 'lat': 48.874999954666755}",,True
+16012,Flandrin - Longchamp,0,"{'lon': 2.274354539176829, 'lat': 48.86877849178477}",,True
+42505,Charles Frérot - Albert Guilpin,0,"{'lon': 2.3505029082298283, 'lat': 48.8155839183714}",,True
+1007,Turbigo - Française,0,"{'lon': 2.3477794602513313, 'lat': 48.86358858111446}",,True
+18004,Place des Abbesses,0,"{'lon': 2.3386867716908455, 'lat': 48.884542726149725}",,True
+2003,Saint-Denis - Réaumur,0,"{'lon': 2.3507790675507594, 'lat': 48.8661116315789}",,True
+2005,Montmartre - Etienne Marcel,0,"{'lon': 2.3450684401448, 'lat': 48.86502194581}",,True
+4015,Mairie du 4ème,0,"{'lon': 2.3563823103905, 'lat': 48.855949910497}",,True
+14133,Froidevaux - Boulard,0,"{'lon': 2.3294411972165, 'lat': 48.835147319625}",,True
+21509,Gardenat Lapostol - Franklin Roosevelt,0,"{'lon': 2.222505, 'lat': 48.871839}",,True
+4007,Place de la Bastille - Bourdon,0,"{'lon': 2.3681089282036, 'lat': 48.852364355271}",,True
+22506,Gare des Vallées,0,"{'lon': 2.257726, 'lat': 48.913179}",,True
+32024,Port - Confluence,0,"{'lon': 2.3436167797955, 'lat': 48.936093926526}",,True
+15040,Saint-Amand - Labrouste,0,"{'lon': 2.3087677359581, 'lat': 48.834097274832295}",,True
+42028,Verdun - Carnot,0,"{'lon': 2.373795211315155, 'lat': 48.808439376064946}",,True
+42019,Lampes,0,"{'lon': 2.4017931148409843, 'lat': 48.81152481985875}",,True
+45004,République - Louis Loucheur,0,"{'lon': 2.5101865455508, 'lat': 48.823549261189}",,True
+34011,Clef des Champs - Albert Dhalenne,0,"{'lon': 2.330665, 'lat': 48.914938}",,True
+13024,Bobillot - Tolbiac,0,"{'lon': 2.350204177200794, 'lat': 48.8255961335041}",,True
+15203,Porte de Versailles,0,"{'lon': 2.2875617349045, 'lat': 48.832324016657}",,True
+15012,Cambronne - Mademoiselle,0,"{'lon': 2.30230766886348, 'lat': 48.843277330035214}",,True
+16116,George Sand - Jean de La Fontaine,0,"{'lon': 2.268257387525699, 'lat': 48.84986918764119}",,True
+22701,Général Leclerc - République,0,"{'lon': 2.2682306702811, 'lat': 48.915885074177}",,True
+20014,Charonne - Alexandre Dumas,0,"{'lon': 2.3948693275452, 'lat': 48.856077415056}",,True
+19014,Lorraine - Jean Jaurès,0,"{'lon': 2.3825772, 'lat': 48.8863865}",,True
+14025,Jacquier - Didot,0,"{'lon': 2.318179272115231, 'lat': 48.82953336292279}",,True
+21508,Georges Pompidou - Verdun,0,"{'lon': 2.232443, 'lat': 48.875481}",,True
+13053,Chevaleret - Tolbiac,0,"{'lon': 2.375934, 'lat': 48.82941}",,True
+10151,Gare du Nord - Faubourg Saint-Denis,0,"{'lon': 2.3568402975798, 'lat': 48.879612765504}",,True
+12105,Bercy - Villot,0,"{'lon': 2.3767850184816, 'lat': 48.841795009027}",,True
+16006,Lauriston - Copernic,0,"{'lon': 2.289918, 'lat': 48.86926}",,True
+8008,Joseph Sansboeuf - Saint Lazare,0,"{'lon': 2.3229019716382, 'lat': 48.875315630653}",,True
+15062,Convention - Lourmel,0,"{'lon': 2.2859910875559, 'lat': 48.842055041656}",,True
+8052,Balzac - Champs Elysées,0,"{'lon': 2.3001953959465, 'lat': 48.872699639621}",,True
+32304,Charcot - Benfleet,0,"{'lon': 2.440523876268, 'lat': 48.878370277021}",,True
+31028,Raspail Barbès,0,"{'lon': 2.4247387, 'lat': 48.8529945}",,True
+48003,Youri Gagarine - Karl Marx,0,"{'lon': 2.35908430069685, 'lat': 48.78448485079149}",,True
+13001,Port-Royal - Hôpital du Val-de-Grâce,0,"{'lon': 2.3448138346607, 'lat': 48.837668272811}",,True
+15133,Saint Lambert - Blomet,0,"{'lon': 2.2930556908249855, 'lat': 48.83659148147257}",,True
+15034,Lakanal - Commerce,0,"{'lon': 2.294059172272682, 'lat': 48.84442462786544}",,True
+20115,Louis Lumière - Porte de Bagnolet,0,"{'lon': 2.4105210229754443, 'lat': 48.86431136000005}",,True
+22016,Charles de Gaulle - Sablonville,0,"{'lon': 2.2763770446181297, 'lat': 48.87991924860035}",,True
+19016,Hautpoul - Jean Jaurès,0,"{'lon': 2.3865414544355, 'lat': 48.886393679436}",,True
+19125,Place de l'Édit de Nantes,0,"{'lon': 2.3785, 'lat': 48.88879}",,True
+9021,Saint Georges - d'Aumale,0,"{'lon': 2.337429821491241, 'lat': 48.87778639599673}",,True
+41102,Gare de Laplace,0,"{'lon': 2.3349460959434514, 'lat': 48.80893199114179}",,True
+24002,Gare de Courbevoie,0,"{'lon': 2.2506506, 'lat': 48.8993867}",,True
+7009,Assemblée Nationale,0,"{'lon': 2.3201214185208, 'lat': 48.861411014652}",,True
+20136,Henri Chevreau - Couronnes,0,"{'lon': 2.388777695596218, 'lat': 48.87033205312931}",,True
+31019,Vincennes - Douy-Delcupe,0,"{'lon': 2.436049282550812, 'lat': 48.85493692155721}",,True
+31016,Lucie Aubrac - Franklin,0,"{'lon': 2.4435862898826604, 'lat': 48.86223916006812}",,True
+20027,Porte de Ménilmontant,0,"{'lon': 2.40932246879487, 'lat': 48.8691543609174}",,True
+41204,République - Danton,0,"{'lon': 2.462034523487091, 'lat': 48.85249172181667}",,True
+10036,Aqueduc - Villette,0,"{'lon': 2.367198803315, 'lat': 48.883886063895}",,True
+21024,Billancourt - Général Leclerc,0,"{'lon': 2.2380413, 'lat': 48.8322649}",,True
+11034,Parmentier - Fontaine au Roi,0,"{'lon': 2.372705978671471, 'lat': 48.86787670551736}",,True
+9113,Bleue - Trévise,0,"{'lon': 2.347289621829987, 'lat': 48.87578906564573}",,True
+21004,Jean Jaurès - Reine,0,"{'lon': 2.239872515201569, 'lat': 48.84009622558849}",,True
+16031,Vignes - Boulainvilliers,0,"{'lon': 2.275240458548069, 'lat': 48.856399483950504}",,True
+13110,Moulin de la Pointe,0,"{'lon': 2.3563179373741145, 'lat': 48.82092946051445}",,True
+9016,Choron - Martyrs,0,"{'lon': 2.3396701365709, 'lat': 48.877851443503}",,True
+13027,Mazagran - Pierre de Coubertin,0,"{'lon': 2.344226874411106, 'lat': 48.816218640260445}",,True
+21029,Cours de l'Ile Seguin - Parc Billancourt,0,"{'lon': 2.234234511852265, 'lat': 48.82714055843935}",,True
+42701,Charles Gide - Fort de Bicêtre,0,"{'lon': 2.353984415531159, 'lat': 48.8071937956922}",,True
+42209,Place de l'Europe - Quai de Bercy,0,"{'lon': 2.3945679143071175, 'lat': 48.82529858840266}",,True
+17108,Bessières - Porte de Clichy,0,"{'lon': 2.31790903955698, 'lat': 48.89611762451474}",,True
+22408,Place du 14 Juillet,0,"{'lon': 2.3011998832226, 'lat': 48.819266959525}",,True
+33015,Charles Tillon - Cimetière Communal,0,"{'lon': 2.3935630917549138, 'lat': 48.91844023641836}",,True
+7017,La Motte-Picquet - La Tour Maubourg,0,"{'lon': 2.3096215831203, 'lat': 48.856926701847}",,True
+8201,Arsène Houssaye - Friedland,0,"{'lon': 2.2994716674148, 'lat': 48.874510616163}",,True
+9102,Londres - Place d'Estienne d'Orves,0,"{'lon': 2.3305362090468407, 'lat': 48.876693805756986}",,True
+44011,Lebrun - Colonel Fabien,0,"{'lon': 2.381317801773548, 'lat': 48.78266870733145}",,True
+15036,Croix Nivert - Square Saint-Lambert,0,"{'lon': 2.295200452208519, 'lat': 48.8430515215905}",,True
+14031,Didot - Place de Moro-Giafferi,0,"{'lon': 2.3215, 'lat': 48.8337}",,True
+11033,Bréguet - Sabin,0,"{'lon': 2.3706749462105, 'lat': 48.856931678257}",,True
+40006,Université Paris Est Créteil,0,"{'lon': 2.4461909509055, 'lat': 48.787714467944}",,True
+16036,Porte Molitor,0,"{'lon': 2.2569015249609947, 'lat': 48.84524763511433}",,True
+5007,Ecoles - Carmes,0,"{'lon': 2.3473486304283147, 'lat': 48.848904447989405}",,True
+10034,Louis Blanc - La Chapelle,0,"{'lon': 2.3599335551262, 'lat': 48.884008964514}",,True
+10011,Bourse du Travail,0,"{'lon': 2.3623438552022, 'lat': 48.868976638826}",,True
+2021,Cléry - Montmartre,0,"{'lon': 2.3445211, 'lat': 48.867458}",,True
+6031,Pierre Sarrazin - Saint-Michel,0,"{'lon': 2.342130728066, 'lat': 48.850908146398}",,True
+41208,Alouettes - Maréchal de Lattre de Tassigny,0,"{'lon': 2.4930700287222862, 'lat': 48.85511009293948}",,True
+6201,Saint Pères - Saint Germain,0,"{'lon': 2.3300181032703, 'lat': 48.853729675265}",,True
+28005,Jean Jaurès - Paul Lafargue,0,"{'lon': 2.2484488785267, 'lat': 48.884933177666}",,True
+6007,Bréa - Raspail,0,"{'lon': 2.3297942217634, 'lat': 48.842738478258}",,True
+10166,Strasbourg - Saint-Denis,0,"{'lon': 2.3542908579111, 'lat': 48.869601642433}",,True
+8202,Londres - Europe,0,"{'lon': 2.3248164693922, 'lat': 48.878618556803}",,True
+21704,Place du Maréchal de Lattre de Tassigny,1,"{'lon': 2.2853431485432423, 'lat': 48.821707715257055}",,False
+15053,Lecourbe - Convention,0,"{'lon': 2.2915197908878326, 'lat': 48.83923319241899}",,True
+15027,Duhamel - André Gide,2,"{'lon': 2.312707121097412, 'lat': 48.8365662244334}",,False
+31105,Lavoisier - Missak Manouchian,0,"{'lon': 2.495676465332508, 'lat': 48.86286468896063}",,True
+11016,Philippe-Auguste,0,"{'lon': 2.3932945355773, 'lat': 48.851853488265}",,True
+21205,Arthur Auger - Jean Jaurès,0,"{'lon': 2.3069277405738835, 'lat': 48.813736445585235}",,True
+21107,Bertrand Sincholle - Henri Barbusse,0,"{'lon': 2.3042294383049016, 'lat': 48.89925982394349}",,True
+16104,Paul Valery - Victor Hugo,0,"{'lon': 2.2887128591537476, 'lat': 48.87137406080164}",,True
+30005,Convention - Campus de Bobigny,0,"{'lon': 2.4172238067445, 'lat': 48.914920058264}",,True
+17036,Place Tristan Bernard,0,"{'lon': 2.2915423, 'lat': 48.8794936}",,True
+8003,Galilée - Vernet,5,"{'lon': 2.2985444962978, 'lat': 48.871715878697}",,False
+26010,Louis Armand - Bernard Palissy,0,"{'lon': 2.313384, 'lat': 48.916974}",,True
+19018,Cité de la Musique,0,"{'lon': 2.3925811931922, 'lat': 48.888796556487}",,True
+13203,Square de Choisy - Eastman,0,"{'lon': 2.3583075090494, 'lat': 48.828543456283}",,True
+18044,Clichy - Douai,0,"{'lon': 2.328063700029, 'lat': 48.883687771522}",,True
+16005,Raymond Poincaré - Place Victor Hugo,0,"{'lon': 2.2850745414202, 'lat': 48.87030612437}",,True
+12201,Dugommier,0,"{'lon': 2.3896577954292, 'lat': 48.838811048815}",,True
+40008,Créteil Pompadour,0,"{'lon': 2.435166164893, 'lat': 48.773011623355}",,True
+32012,Carrefour Pleyel,0,"{'lon': 2.3438543826341625, 'lat': 48.92034156960326}",,True
+14111,Cassini - Denfert-Rochereau,0,"{'lon': 2.3360354080796, 'lat': 48.837525839067}",,True
+8026,Messine - Place Du Pérou,0,"{'lon': 2.315508019010038, 'lat': 48.875448033960744}",,True
+6021,Beaux-Arts - Bonaparte,0,"{'lon': 2.3348518833518, 'lat': 48.856451985396}",,True
+2022,Saint-Fiacre - Poissonière,5,"{'lon': 2.3459213599563, 'lat': 48.870828911558}",,False
+21216,Louis Lejeune - Barbès,0,"{'lon': 2.3267009854316716, 'lat': 48.81807418981508}",,True
+15068,Général Martial Valin - Pont du Garigliano,0,"{'lon': 2.270506024360657, 'lat': 48.83823094269141}",,True
+8053,Place Georges Guillaumin,0,"{'lon': 2.301771435326, 'lat': 48.874750203957}",,True
+15067,Desaix - Edgar Faure,0,"{'lon': 2.293077029857222, 'lat': 48.852804604940296}",,True
+15054,Lecourbe - Jean Maridor,0,"{'lon': 2.2877392172813416, 'lat': 48.83796366147599}",,True
+17125,Marie-Georges Picquart - Pereire,0,"{'lon': 2.3111706599593163, 'lat': 48.88863669349711}",,True
+21701,Larmeroux - Baudelaire,0,"{'lon': 2.2809894804846, 'lat': 48.816939911292}",,True
+42010,Mairie d'Ivry-sur-Seine,0,"{'lon': 2.3842826485633855, 'lat': 48.81057120969284}",,True
+17028,Reims - Raymond Pitet,0,"{'lon': 2.296319, 'lat': 48.8888}",,True
+41606,Pasteur - Gambetta,0,"{'lon': 2.4236011505126953, 'lat': 48.84572797384512}",,True
+19044,Grands Moulins de Pantin,0,"{'lon': 2.3959985375404362, 'lat': 48.89738369720229}",,True
+11101,Charles Delescluze,0,"{'lon': 2.380632497370243, 'lat': 48.85242200848887}",,True
+15055,Vasco de Gama,0,"{'lon': 2.283664085650799, 'lat': 48.83671783466264}",,True
+19037,Belleville - Porte des Lilas,0,"{'lon': 2.404769691129476, 'lat': 48.87660391892763}",,True
+6018,Michelet - Assas,0,"{'lon': 2.3350211977959, 'lat': 48.842741502832}",,True
+44102,Verdun - Adrien Damalix,0,"{'lon': 2.4215328320860863, 'lat': 48.8222334178559}",,True
+17122,Bridaine - Lamandé,0,"{'lon': 2.3206239, 'lat': 48.8862074}",,True
+19038,Lassus - Delouvain,0,"{'lon': 2.3890327325519, 'lat': 48.8755044846}",,True
+18008,Square Léon,0,"{'lon': 2.353205569088459, 'lat': 48.88667396788626}",,True
+20017,Saint-Blaise - Mouraud,0,"{'lon': 2.40869477391243, 'lat': 48.85696177597818}",,True
+21108,Mairie de Clichy,0,"{'lon': 2.3059353232384, 'lat': 48.903653634661}",,True
+6014,Pont de Lodi - Dauphine,0,"{'lon': 2.339947307565249, 'lat': 48.855296898603285}",,True
+19021,Mairie du 19ème,7,"{'lon': 2.3812624812126164, 'lat': 48.88256264247959}",,False
+13019,Fernand Braudel - Vincent Auriol,0,"{'lon': 2.3723404482007027, 'lat': 48.83637852318147}",,True
+12033,François Truffaut - Saint Emilion,0,"{'lon': 2.386601903271428, 'lat': 48.83372354344807}",,True
+21009,Le Corbusier - Jean Jaurès,0,"{'lon': 2.2408381104469304, 'lat': 48.83780830557548}",,True
+4107,Beaumarchais - Pas de la Mule,0,"{'lon': 2.3684333673431, 'lat': 48.855580507049}",,True
+21307,Victor Cresson - Telles de la Poterie,0,"{'lon': 2.2686498274964, 'lat': 48.822698842979}",,True
+4003,Quai aux Fleurs - Pont Saint-Louis,0,"{'lon': 2.3521957173944, 'lat': 48.852915956209}",,True
+19128,Quai de l'Oise - Aisne,0,"{'lon': 2.3833701, 'lat': 48.8906231}",,True
+22015,Île de la Jatte,0,"{'lon': 2.2666339203715324, 'lat': 48.894036161302104}",,True
+2108,Vivienne - Montmartre,0,"{'lon': 2.3414588347077, 'lat': 48.871347597383}",,True
+4019,Cloître Saint-Merri - Renard,0,"{'lon': 2.3518279194832, 'lat': 48.858835448898}",,True
+51001,Gare d'Argenteuil,0,"{'lon': 2.256898172199726, 'lat': 48.947022436806705}",,True
+2112,Bibliothèque Nationale - Richelieu,0,"{'lon': 2.3380893096328, 'lat': 48.868288993515}",,True
+20044,Davout - Volga,0,"{'lon': 2.410522909779111, 'lat': 48.852919679957296}",,True
+18039,Jardins d'Eole,1,"{'lon': 2.3668488, 'lat': 48.8869703}",,False
+22201,Henri Ravera - Gabriel Péri,0,"{'lon': 2.302115857601166, 'lat': 48.79722273833844}",,True
+15128,Cadix - Hameau,0,"{'lon': 2.289516180753708, 'lat': 48.8340107632249}",,True
+21309,Mairie d'Issy,2,"{'lon': 2.2723111510277, 'lat': 48.823767792468}",,False
+14019,Sarrette - Général Leclerc,0,"{'lon': 2.3264128693982, 'lat': 48.825030852925}",,True
+21110,Parc Roger Salengro,0,"{'lon': 2.31055945158, 'lat': 48.905303858642}",,True
+21706,Jean Bleuzen - Square du 11 Novembre,0,"{'lon': 2.2965213, 'lat': 48.8232579}",,True
+1026,Place du Lieutenant Henri Karcher,0,"{'lon': 2.3400671035051346, 'lat': 48.863490871724466}",,True
+23042,André Theuriet - Blagis,0,"{'lon': 2.3130525648593903, 'lat': 48.77977325745441}",,True
+32022,Henri Barbusse - Marcel Cachin,0,"{'lon': 2.3720374971659, 'lat': 48.93742089281}",,True
+32020,Jules Guesdes - Carnot,0,"{'lon': 2.3508992046117783, 'lat': 48.93828169931872}",,True
+44004,Place de l'Eglise - Vitry-sur-Seine,0,"{'lon': 2.395057752728462, 'lat': 48.791922819921815}",,True
+23303,Gare de Robinson,0,"{'lon': 2.281828634440899, 'lat': 48.7799259211605}",,True
+19114,Manin - Secrétan,0,"{'lon': 2.3787959, 'lat': 48.8791665}",,True
+24005,Edith Cavell - Volta,0,"{'lon': 2.269354350864887, 'lat': 48.901616564286975}",,True
+41602,Place Charles Digeon,0,"{'lon': 2.418427169322968, 'lat': 48.84354203133597}",,True
+42303,Place Eustache Deschamps,0,"{'lon': 2.336637, 'lat': 48.793855}",,True
+16017,Siam - La Pompe,0,"{'lon': 2.275346568555312, 'lat': 48.861720329027264}",,True
+17006,Guy Môquet - Compoint,4,"{'lon': 2.32321947813034, 'lat': 48.89213559044868}",,False
+21207,Verdier - République,2,"{'lon': 2.31739372015, 'lat': 48.815403766277}",,False
+20011,Pyrénées - Dagorno,0,"{'lon': 2.4051643162965775, 'lat': 48.855425770695085}",,True
+13037,Ivry - Baudricourt,4,"{'lon': 2.363106073577468, 'lat': 48.824695995415006}",,False
+13008,Place d'Italie - Soeur Rosalie,0,"{'lon': 2.3546943448098, 'lat': 48.831908520394}",,True
+20035,Pyrénées - Ménilmontant,0,"{'lon': 2.395084574818611, 'lat': 48.8693268535238}",,True
+19045,Macdonald - Césaria Evora,0,"{'lon': 2.37933, 'lat': 48.89883}",,True
+22302,Gare RER - Général de Gaulle,0,"{'lon': 2.3064726536317, 'lat': 48.933548439566}",,True
+7007,Musée d'Orsay,0,"{'lon': 2.3258604481816, 'lat': 48.859726157909}",,True
+45005,Stalingrad - Général de Gaulle,0,"{'lon': 2.4965062363218, 'lat': 48.823450589614}",,True
+18024,Clignancourt - Ordener,0,"{'lon': 2.348636478060487, 'lat': 48.891457726153774}",,True
+7201,Place De Fontenoy - Saxe,0,"{'lon': 2.3069813815839, 'lat': 48.850270554523}",,True
+11046,Place de la République - Voltaire,0,"{'lon': 2.3654810339212, 'lat': 48.866830968942}",,True
+9025,Taitbout - Châteaudun,2,"{'lon': 2.3353566779335, 'lat': 48.876383969379}",,False
+16001,Portugais - Kléber,0,"{'lon': 2.2937349, 'lat': 48.8712148}",,True
+21302,Aristide Briand - Place de la Résistance,0,"{'lon': 2.2511002421379094, 'lat': 48.82124248401006}",,True
+17025,Chazelles - Courcelles,0,"{'lon': 2.3034455627202988, 'lat': 48.879406604954}",,True
+20143,Ramponeau - Belleville,0,"{'lon': 2.379056852114, 'lat': 48.871031137596}",,True
+33017,Anatole France - President Roosevelt,0,"{'lon': 2.3814103, 'lat': 48.9155156}",,True
+15104,Hôpital Européen Georges Pompidou,0,"{'lon': 2.2753742337227, 'lat': 48.837695319163}",,True
+19103,Manin - Carrières d'Amérique,0,"{'lon': 2.3919698596000676, 'lat': 48.88467214209463}",,True
+41209,Cimetière de Fontenay-sous-Bois,0,"{'lon': 2.4787822365760808, 'lat': 48.84706173362218}",,True
+41601,Général De Gaulle - Alouette,0,"{'lon': 2.4175664, 'lat': 48.839109}",,True
+11042,Grand Prieuré - Crussol,1,"{'lon': 2.3692265531829, 'lat': 48.864660627935}",,False
+26007,Square Gilbert Thomain,0,"{'lon': 2.2695400938391685, 'lat': 48.90717373809284}",,True
+32303,Gaston Roussel - Commune de Paris,0,"{'lon': 2.4325522744195, 'lat': 48.894320345532}",,True
+5021,Jussieu - Fossés Saint-Bernard,0,"{'lon': 2.3534858599305, 'lat': 48.847185510023}",,True
+25008,Place du 8 Mai 1945,0,"{'lon': 2.2025031970585, 'lat': 48.871552174017}",,True
+42707,Place Jean-Baptiste Clément,0,"{'lon': 2.3617091774940495, 'lat': 48.81240466867336}",,True
+16129,Ceinture du Lac Inferieure - Saint-Cloud,0,"{'lon': 2.2617871686816216, 'lat': 48.86218070933143}",,True
+41604,Lagny - Joffre,0,"{'lon': 2.417949736118317, 'lat': 48.84930687084088}",,True
+14139,Pierre Larousse - Raymond Losserand,0,"{'lon': 2.3119183257222176, 'lat': 48.83059564231877}",,True
+15038,Place Adolphe Cherioux - Vaugirard,0,"{'lon': 2.3010657727718353, 'lat': 48.83959442800459}",,True
+44012,Génie - Mozart,0,"{'lon': 2.3734183609485626, 'lat': 48.794902381218904}",,True
+19009,Cité des Sciences et de l'Industrie,0,"{'lon': 2.384599149227142, 'lat': 48.89659571178903}",,True
+18113,Lepic - Armée d'Orient,0,"{'lon': 2.3343077301979, 'lat': 48.887536403814}",,True
+31703,Sadi Carnot - François Mitterrand,0,"{'lon': 2.4241617321968083, 'lat': 48.87532687671517}",,True
+15003,Gare Montparnasse - Vaugirard,0,"{'lon': 2.31951002690117, 'lat': 48.8418071798797}",,True
+4110,Neuve Saint-Pierre - Beautreillis,0,"{'lon': 2.3639122769236565, 'lat': 48.85355351439652}",,True
+7020,Champ de Mars - Cler,0,"{'lon': 2.306646779179573, 'lat': 48.856691550115315}",,True
+2001,Greneta - Sebastopol,0,"{'lon': 2.3516669869423, 'lat': 48.865242333228}",,True
+11048,Place Mireille Havet,0,"{'lon': 2.383756, 'lat': 48.850533}",,True
+18114,Véron - Lepic,0,"{'lon': 2.334559857845307, 'lat': 48.88526123395252}",,True
+35015,Averroès - Aimé Césaire,0,"{'lon': 2.412636950612068, 'lat': 48.91405323432864}",,True
+10152,Gare du Nord - Place de Valenciennes,0,"{'lon': 2.354235, 'lat': 48.879089}",,True
+10037,Quai de Valmy,0,"{'lon': 2.368186041712761, 'lat': 48.88126951579429}",,True
+21316,Cimetière d'Issy-les-Moulineaux,0,"{'lon': 2.2609312087297, 'lat': 48.817699773925}",,True
+21219,Amaury Duval - Gabriel Péri,0,"{'lon': 2.323841750621796, 'lat': 48.81718759671675}",,True
+4001,Arcole - Notre-Dame,0,"{'lon': 2.3493797332048, 'lat': 48.853883541328}",,True
+43001,Paris - Laitières,0,"{'lon': 2.4207553267478947, 'lat': 48.84630274151258}",,True
+12007,Gare de Lyon - Chalon,0,"{'lon': 2.3741452395916, 'lat': 48.845666194202}",,True
+25001,Colmar - Victor Hugo,0,"{'lon': 2.173960916697979, 'lat': 48.88652251096166}",,True
+47001,Place de la Gare,0,"{'lon': 2.4275037646293645, 'lat': 48.80253358011283}",,True
+44101,Place Mongolfier,0,"{'lon': 2.4592879414558415, 'lat': 48.815160030060376}",,True
+6027,Blaise-Desgoffe - Vaugirard,0,"{'lon': 2.3242672160268, 'lat': 48.846128877747}",,True
+15005,Place Jacques et Thérèse Tréfouël,0,"{'lon': 2.3125657439232, 'lat': 48.842726498317}",,True
+21306,Place Lafayette,0,"{'lon': 2.2638675570488, 'lat': 48.829654975522}",,True
+9024,Taitbout - La Fayette,0,"{'lon': 2.3352625966072, 'lat': 48.8733298892}",,True
+15006,Cherche-Midi - Hôpital Necker,0,"{'lon': 2.317914068698883, 'lat': 48.84461063309956}",,True
+14135,Jourdan - Cité Universitaire,0,"{'lon': 2.3397007964124366, 'lat': 48.819897343156676}",,True
+4021,Centre Georges Pompidou,0,"{'lon': 2.352581, 'lat': 48.861419}",,True
+19002,Centquatre,0,"{'lon': 2.3707854375243, 'lat': 48.889333538455}",,True
+21506,Maurice Payret-Dortail,0,"{'lon': 2.2233625128865246, 'lat': 48.87811957063342}",,True
+19111,Cesaria Evora - Rosa Parks,2,"{'lon': 2.3745173960924144, 'lat': 48.89717672825043}",,False
+42211,Séminaire de Conflans - Liberté,12,"{'lon': 2.404179, 'lat': 48.823194}",,False
+16044,Porte de Saint Cloud - Parc des Princes,0,"{'lon': 2.2525164484978, 'lat': 48.838662757066}",,True
+19202,Marseillaise - Grenade,0,"{'lon': 2.3979396821544, 'lat': 48.889371092747}",,True
+1008,Les Halles - Saint-Eustache,0,"{'lon': 2.342623919248581, 'lat': 48.86362695901683}",,True
+9019,Victor Massé - Jean-Baptiste Pigalle,0,"{'lon': 2.3366955667734, 'lat': 48.8811043724}",,True
+19006,Mathis - Flandre,0,"{'lon': 2.3762554675341, 'lat': 48.890642989898}",,True
+24101,Place Charles de Gaulle,0,"{'lon': 2.1894485725692, 'lat': 48.826073335699}",,True
+12123,Château de Vincennes,0,"{'lon': 2.439209537709179, 'lat': 48.84423193255657}",,True
+15024,Suffren - La Motte-Piquet,0,"{'lon': 2.3012199997902, 'lat': 48.850881230919}",,True
+14035,Maine - Jean Zay,0,"{'lon': 2.3225428909063, 'lat': 48.837925263898}",,True
+13023,Bobillot - Moulin des Prés,0,"{'lon': 2.353020646317, 'lat': 48.828657346203}",,True
+20106,Mairie du 20ème,3,"{'lon': 2.3990669846535, 'lat': 48.865302324275}",,False
+20033,Etienne Dolet - Place Maurice Chevalier,0,"{'lon': 2.3851405311143026, 'lat': 48.86798303359366}",,True
+21510,Fontaine du Tertre - Calvaire,0,"{'lon': 2.2187778, 'lat': 48.8702539}",,True
+51007,Résistance - Romain Rolland,0,"{'lon': 2.2310190077797, 'lat': 48.950873482371}",,True
+21511,Marcel Monge - Marcel Dassault,0,"{'lon': 2.2246733296048142, 'lat': 48.86096384533371}",,True
+20037,Gambetta - Saint Fargeau,0,"{'lon': 2.4039056897163396, 'lat': 48.871244610447015}",,True
+26011,Ménil - Argenteuil,0,"{'lon': 2.2741496502338, 'lat': 48.925901818305}",,True
+22602,Place Henri Dunant - Gare RER,0,"{'lon': 2.2909234046643, 'lat': 48.788093281931}",,True
+25010,Maréchal Leclerc de Hauteclocque - Marché Buzenval,0,"{'lon': 2.192077, 'lat': 48.858446}",,True
+12165,Champs de Manoeuvre - Cartoucherie,0,"{'lon': 2.447974, 'lat': 48.835261}",,True
+47007,Liberté - Vert-de-Maisons,0,"{'lon': 2.4328628182411, 'lat': 48.790147809608}",,True
+11037,Faubourg Du Temple - Republique,0,"{'lon': 2.3648982158072, 'lat': 48.867872484749}",,True
+42004,Westermeyer - Paul Vaillant-Couturier,0,"{'lon': 2.3966637253761296, 'lat': 48.819116181578764}",,True
+5110,Lacépède - Monge,0,"{'lon': 2.3519663885235786, 'lat': 48.84389286531899}",,True
+8050,Boétie - Ponthieu,1,"{'lon': 2.3076787590981, 'lat': 48.871417284355}",,False
+13030,Italie - Tolbiac,0,"{'lon': 2.3576171323657036, 'lat': 48.82557229464416}",,True
+5005,Gay Lussac - Saint-Jacques,0,"{'lon': 2.3419239448664, 'lat': 48.844730256132}",,True
+18011,Pajol - Place Herbert,0,"{'lon': 2.3635598, 'lat': 48.8927825}",,True
+18003,Cimetière de Montmartre,0,"{'lon': 2.3328901827335, 'lat': 48.886472466142}",,True
+22406,Guy Môquet - Etienne Dolet,0,"{'lon': 2.298078276995073, 'lat': 48.81527009991819}",,True
+42014,Place Marcel Cachin,0,"{'lon': 2.39090770483017, 'lat': 48.81411442356866}",,True
+26013,Quai du docteur Dervaux,0,"{'lon': 2.297998, 'lat': 48.910482}",,True
+43003,Hôpital Bégin,0,"{'lon': 2.4272462725639, 'lat': 48.84571672113}",,True
+41404,Carnot - Pâquerettes,0,"{'lon': 2.4261841177940373, 'lat': 48.79592939432515}",,True
+19019,Petit - Manin,0,"{'lon': 2.3938155401308, 'lat': 48.886506875343}",,True
+23802,Raymond Poincaré - Allée de la Marche,0,"{'lon': 2.1724102640451, 'lat': 48.838634069623}",,True
+12126,Gravelle - Route du Bac,6,"{'lon': 2.418455, 'lat': 48.824407}",,False
+21013,Pierre Grenier - Pont de Billancourt,0,"{'lon': 2.2487989068031315, 'lat': 48.8258020742942}",,True
+10023,Gare de l'Est - Verdun,0,"{'lon': 2.3609149083206, 'lat': 48.876156054271}",,True
+13016,Primo Levi - Frigos,0,"{'lon': 2.37965351592796, 'lat': 48.83094844846017}",,True
+21003,Jean Jaurès - Jean Baptiste Clément,1,"{'lon': 2.2369650006294255, 'lat': 48.84576261454011}",,False
+20112,Jourdain - Place des Grandes Rigoles,0,"{'lon': 2.3895947635174, 'lat': 48.874031137272}",,True
+15059,Parc André Citroën,0,"{'lon': 2.2780618071556096, 'lat': 48.840639944296655}",,True
+8056,Beaujon - Wagram,0,"{'lon': 2.2964416444302, 'lat': 48.875352455985}",,True
+21114,Gustave Eiffel - Parc des Impressionnistes,0,"{'lon': 2.2946908324956894, 'lat': 48.90390619651018}",,True
+14127,Odessa - Départ,0,"{'lon': 2.3244281485677, 'lat': 48.842885590081}",,True
+15125,Parc Suzanne Lenglen,0,"{'lon': 2.2765403240919113, 'lat': 48.833250690537874}",,True
+19025,Botzaris - Crimée,0,"{'lon': 2.3887913337477067, 'lat': 48.87959698690176}",,True
+16003,André Maurois - Joseph et Marie Hackin,0,"{'lon': 2.2789591, 'lat': 48.8778983}",,True
+31021,Résistance - Hoche,0,"{'lon': 2.435784414410591, 'lat': 48.864273423741956}",,True
+16011,Victor Hugo - La Pompe,10,"{'lon': 2.28146318346262, 'lat': 48.86795222470859}",,False
+18007,Goutte d'or - Barbès,0,"{'lon': 2.3496962338686, 'lat': 48.885124323627}",,True
+35006,Delizy - Louis Nadot,0,"{'lon': 2.4094578623771667, 'lat': 48.896212845581346}",,True
+13516,Glacière - Soeur Catherine Marie,0,"{'lon': 2.343570403754711, 'lat': 48.829522989420596}",,True
+41211,Louis Xavier de Ricard - Ancienne Mairie,0,"{'lon': 2.472420372068882, 'lat': 48.84629899065091}",,True
+5001,Harpe - Saint-Germain,0,"{'lon': 2.3436703160405, 'lat': 48.851518815017}",,True
+23102,Hôtel de Ville de Sèvres,0,"{'lon': 2.2131047397852, 'lat': 48.824363561289}",,True
+6022,Marché Saint-Germain,0,"{'lon': 2.335500307381153, 'lat': 48.85165625855281}",,True
+33103,Jean Jaurès - Jules Jacquemin,0,"{'lon': 2.4082902455152104, 'lat': 48.88433053604843}",,True
+8110,Gare Saint-Lazare - Stockholm,0,"{'lon': 2.322417162358761, 'lat': 48.877127316667654}",,True
+9111,Victoire - Laffitte,0,"{'lon': 2.338118505144376, 'lat': 48.87514373494672}",,True
+5004,Saint-Jacques - Val de Grâce,0,"{'lon': 2.3413893, 'lat': 48.8417514}",,True
+1116,Ventadour - Opéra,0,"{'lon': 2.3343884482519, 'lat': 48.866810653323}",,True
+1023,Saint-Honoré - Musée du Louvre,5,"{'lon': 2.3348781846405, 'lat': 48.863443132848}",,False
+18112,Arthur Ranc - Hôpital Bichat,0,"{'lon': 2.333521842956543, 'lat': 48.8978712500682}",,True
+27006,Victor Hugo - Gare,0,"{'lon': 2.2600970417261, 'lat': 48.923133952658}",,True
+42210,Victor Hugo - Paul Eluard,0,"{'lon': 2.4114319673051, 'lat': 48.819602554907}",,True
+44008,Youri Gagarine - Commune de Paris,0,"{'lon': 2.3939734697342, 'lat': 48.782427463041}",,True
+20003,Pyrénées - Cours de Vincennes,0,"{'lon': 2.4061721563339, 'lat': 48.847796779935}",,True
+30003,Moscou - Edouard Vaillant,0,"{'lon': 2.4689837335263, 'lat': 48.90755810177}",,True
+15050,Dominique Pado - Croix Nivert,0,"{'lon': 2.2897250577807426, 'lat': 48.83648798164934}",,True
+14009,Tombe Issoire - René Coty,0,"{'lon': 2.3343613743782, 'lat': 48.830512876709}",,True
+25004,Marcel Pourtout - Édouard Manet,0,"{'lon': 2.1655967831611638, 'lat': 48.87555620763429}",,True
+19007,Flandre - Ourcq,6,"{'lon': 2.3790915682911873, 'lat': 48.89260159189023}",,False
+11018,Saint-Maur - République,0,"{'lon': 2.3783174157143, 'lat': 48.864185861455}",,True
+41212,Nungesser - Santé,0,"{'lon': 2.448967, 'lat': 48.852335}",,True
+10028,Gare du Nord - Dunkerque,0,"{'lon': 2.3527636751533, 'lat': 48.880423508429}",,True
+22209,Verdun - Henri Barbusse,0,"{'lon': 2.3159965061736, 'lat': 48.802056061754}",,True
+11201,Faubourg St-Antoine - Place de la Nation,0,"{'lon': 2.393606, 'lat': 48.8487726}",,True
+21327,Jean Bouin - Gouverneur Général Eboué,0,"{'lon': 2.2651904328524, 'lat': 48.824792734266}",,True
+31303,Simone Signoret - Paris,0,"{'lon': 2.465406596265139, 'lat': 48.903600624712865}",,True
+15013,Volontaires - Lecourbe,2,"{'lon': 2.3065522313118, 'lat': 48.84351378799}",,False
+10114,Granges aux Belles - Hôpital Saint-Louis,0,"{'lon': 2.366669436985, 'lat': 48.874794994841}",,True
+16103,Traktir - Foch,0,"{'lon': 2.2915497802487, 'lat': 48.872755334614}",,True
+11009,Boulets - Voltaire,0,"{'lon': 2.3890301585197, 'lat': 48.85218705621}",,True
+40012,Stade de la Habette,0,"{'lon': 2.4668785263921, 'lat': 48.774397033806}",,True
+35014,Charles de Gaulle - Jean Lolive,0,"{'lon': 2.4126765131950383, 'lat': 48.8932644350857}",,True
+17123,Mstislav Rostropovitch - Berthier,0,"{'lon': 2.309234105050564, 'lat': 48.892120821173975}",,True
+13123,BNF - Bibliothèque Nationale de France,0,"{'lon': 2.3760157451034, 'lat': 48.8350268238}",,True
+9104,Caumartin - Provence,0,"{'lon': 2.3284685611724854, 'lat': 48.874422773426545}",,True
+42016,Pierre et Marie Curie - Maurice Thorez,0,"{'lon': 2.376804985105991, 'lat': 48.81580226360801}",,True
+12031,Gabriel Lamé,0,"{'lon': 2.385534569621086, 'lat': 48.8351212784276}",,True
+1001,Quai de l'Horloge - Pont Neuf,0,"{'lon': 2.3417982839439, 'lat': 48.857058739111}",,True
+19043,Delphine Seyrig - Général Leclerc,0,"{'lon': 2.39790290594101, 'lat': 48.893923963057865}",,True
+41302,Charles de Gaulle - Beauté,0,"{'lon': 2.479562651149885, 'lat': 48.83649602312711}",,True
+14008,Mouton Duvernet - Général Leclerc,0,"{'lon': 2.3293121159077, 'lat': 48.831632518293}",,True
+18028,Championnet - Vauvenargues,0,"{'lon': 2.3319872841238976, 'lat': 48.89401874744574}",,True
+15109,Cevennes - Bergers,0,"{'lon': 2.281037718057633, 'lat': 48.84240765130395}",,True
+17203,Place de la Porte de Champeret,0,"{'lon': 2.2917001576821, 'lat': 48.886062068226}",,True
+4016,Lobau - Hôtel de Ville,0,"{'lon': 2.3532536, 'lat': 48.8562118}",,True
+20131,Repos - Cimetière du Père Lachaise,0,"{'lon': 2.3896131366845, 'lat': 48.859358523593}",,True
+6025,Assas - Rennes,4,"{'lon': 2.32851454623001, 'lat': 48.8492084999386}",,False
+5028,Censier - Jardin des Plantes,0,"{'lon': 2.355475388467312, 'lat': 48.84107178161383}",,True
+32604,Square du Théâtre du Garde-Chasse,0,"{'lon': 2.420119643211365, 'lat': 48.881287375060616}",,True
+15201,Place Amédée Gordini - Lefebvre,0,"{'lon': 2.2920634208276, 'lat': 48.83061737745}",,True
+17045,Place des Ternes.,0,"{'lon': 2.297727763652802, 'lat': 48.878438631226516}",,True
+12115,Porte de Vincennes,0,"{'lon': 2.415514, 'lat': 48.846454}",,True
+25005,18 juin 1940 - Buzenval,0,"{'lon': 2.185428, 'lat': 48.868807}",,True
+16034,Porte d'Auteuil,0,"{'lon': 2.2608396783471107, 'lat': 48.8479394142243}",,True
+23701,Parvis Robert Schuman - Roger Salengro,0,"{'lon': 2.1921751275658607, 'lat': 48.812657470558754}",,True
+6030,Assas - Vaugirard,0,"{'lon': 2.3292413726449, 'lat': 48.848274111398}",,True
+7014,Saint-François-Xavier,3,"{'lon': 2.3146149516106, 'lat': 48.85154484769}",,False
+17017,Gare de Pont-Cardinet,0,"{'lon': 2.314494143994255, 'lat': 48.88713901475306}",,True
+19039,Edouard Pailleron - Simon Bolivar,0,"{'lon': 2.374839261174202, 'lat': 48.87979886049996}",,True
+10020,Chabrol - d'Hauteville,0,"{'lon': 2.3513179644942, 'lat': 48.877018388033}",,True
+21001,Transvaal - Charles de Gaulle,0,"{'lon': 2.2373420120857195, 'lat': 48.848280403628806}",,True
+9118,Faubourg Poissonniere - Delta,0,"{'lon': 2.3497482016682625, 'lat': 48.882555807626765}",,True
+20019,Place du Maquis du Vercors,0,"{'lon': 2.4083782732486725, 'lat': 48.877321579493575}",,True
+4011,Hôtel de Ville - Pont-Marie,0,"{'lon': 2.3569472506642, 'lat': 48.853899645527}",,True
+11107,Faidherbe - Dahomey,1,"{'lon': 2.383823134795429, 'lat': 48.851358329771806}",,False
+22017,Charles de Gaulle - Louis Philippe,0,"{'lon': 2.2710045335353, 'lat': 48.881742142181}",,True
+22002,Argenson - Château,0,"{'lon': 2.2642001509666447, 'lat': 48.888559314669514}",,True
+13022,Butte aux Cailles - Esperance,0,"{'lon': 2.3492151126265526, 'lat': 48.82758774190948}",,True
+21017,Place Marcel Sembat,0,"{'lon': 2.2441747784614567, 'lat': 48.83328865030686}",,True
+22012,Madeleine Michelis - Roule,0,"{'lon': 2.2773634269833565, 'lat': 48.88260431301364}",,True
+21120,Docteur Calmette - Martre,0,"{'lon': 2.3086513252383, 'lat': 48.898969358483}",,True
+22403,Pierre Brossolette - Adolphe Pinard,0,"{'lon': 2.3131558299065, 'lat': 48.821772279548}",,True
+5034,Censier - Santeuil,0,"{'lon': 2.3537524044513702, 'lat': 48.840658921385234}",,True
+42304,Marc Sangnier - Division Leclerc,0,"{'lon': 2.329955510795116, 'lat': 48.78599652305309}",,True
+20009,Docteurs Déjérine - Pte de Montreuil,1,"{'lon': 2.41208288897222, 'lat': 48.85398448133697}",,False
+23003,Président Wilson - Baudin,0,"{'lon': 2.2849336266517644, 'lat': 48.89826887103676}",,True
+9027,Douai - Pierre Fontaine,0,"{'lon': 2.33324121683836, 'lat': 48.88229101148092}",,True
+6012,Saint-Germain - Ciseaux,0,"{'lon': 2.3344654618827, 'lat': 48.853305277595}",,True
+12038,Picpus - Louis Braille,0,"{'lon': 2.4005256685521, 'lat': 48.839988788912}",,True
+41403,Gare RER - Malleret-Joinville,0,"{'lon': 2.42531, 'lat': 48.802936}",,True
+15008,Sèvres - Lecourbe,0,"{'lon': 2.3110086, 'lat': 48.8447677}",,True
+41405,Place de l'Europe - Alfortville,0,"{'lon': 2.4284800887107854, 'lat': 48.78913702405837}",,True
+13017,Nationale - Vincent Auriol,0,"{'lon': 2.362354410392119, 'lat': 48.83252708397293}",,True
+31001,Lagny - Auguste Blanqui,0,"{'lon': 2.4218603968620305, 'lat': 48.84922568052601}",,True
+14023,Adolphe Pinard - Victor Hugo,5,"{'lon': 2.3077843710780144, 'lat': 48.8236825874564}",,False
+2004,Square Pierre Lazareff,0,"{'lon': 2.3483933508396, 'lat': 48.867141720746}",,True
+12113,Cardinal Lavigerie,0,"{'lon': 2.402636749399156, 'lat': 48.832934193699835}",,True
+2020,Danielle Casanova - Opéra,0,"{'lon': 2.3333894088864, 'lat': 48.867643242297}",,True
+41103,Place de la vache noire,0,"{'lon': 2.327060401439667, 'lat': 48.81040517059777}",,True
+15069,Félix Faure - Convention,0,"{'lon': 2.2883866008495, 'lat': 48.841249336041}",,True
+18021,Marcadet - Ramey,0,"{'lon': 2.3449019, 'lat': 48.890875}",,True
+8046,Marceau - Président Wilson,0,"{'lon': 2.3002513, 'lat': 48.8652359}",,True
+24007,Jean-Baptiste Charcot - Sainte-Geneviève,0,"{'lon': 2.278892956674099, 'lat': 48.90310883721567}",,True
+6004,Regard - Rennes,0,"{'lon': 2.3268555477262, 'lat': 48.847385404956}",,True
+15114,Pasteur - Cotentin,0,"{'lon': 2.316356, 'lat': 48.8389284}",,True
+21033,Sèvres - Maréchal Juin,0,"{'lon': 2.2292812, 'lat': 48.8324305}",,True
+15032,Félix Faure - Lourmel,0,"{'lon': 2.2818081825971603, 'lat': 48.83868901709515}",,True
+34008,Garibaldi - Gabriel Péri,0,"{'lon': 2.3316044208059, 'lat': 48.905741911394}",,True
+13204,Tolbiac - Boussingault,0,"{'lon': 2.3420378552202, 'lat': 48.826177754027}",,True
+18041,Rochechouart - Martyrs,0,"{'lon': 2.3405495658517, 'lat': 48.882193779572}",,True
+7111,Ecole Militaire - Place Joffre,0,"{'lon': 2.3017993569374, 'lat': 48.852060203583}",,True
+40007,Préfecture de Créteil,0,"{'lon': 2.4544713672215, 'lat': 48.783680285918}",,True
+40014,Créteil Pointe du Lac,0,"{'lon': 2.4623027310281, 'lat': 48.769807356177}",,True
+26005,Hôtel de Ville d'Asnières sur Seine,0,"{'lon': 2.288238108158112, 'lat': 48.90999330025577}",,True
