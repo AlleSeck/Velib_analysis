@@ -3,47 +3,50 @@ import requests
 import pandas as pd
 from dotenv import load_dotenv
 
-# Charger les variables d'environnement depuis .env
+# Load environment variables from .env
 load_dotenv()
 
-# Récupérer la clé API depuis .env
+# Retrieve the API key from .env
 API_KEY = os.getenv("VELIB_API_KEY")
 
-# Vérifier si la clé API est bien chargée
+# Check if the API key is properly loaded
 if not API_KEY:
-    raise ValueError("❌ Erreur : La clé API VELIB n'a pas été trouvée. Vérifie ton fichier .env !")
+    raise ValueError("❌ Error: VELIB API key not found. Check your .env file!")
 
-# ca Crée le dossier "data" s'il n'existe pas
+# Create the folder "data" if it doesn't exist
 os.makedirs("data", exist_ok=True)
 
-# URL de l'API Vélib
+# Vélib API URL
 API_URL = "https://opendata.paris.fr/api/explore/v2.1/catalog/datasets/velib-emplacement-des-stations/exports/json"
 
-# Faire la requête à l'API
-print("📡 Récupération des données Vélib...")
+# Make the API request
+print("📡 Fetching Vélib data...")
 response = requests.get(API_URL)
 
-# Vérifier si la requête a réussi
+# Check if the request was successful
 if response.status_code == 200:
     data = response.json()
 
-    # Convertir en DataFrame Pandas
+    # Convert to Pandas DataFrame
     df = pd.DataFrame(data)
 
-    # Afficher les colonnes disponibles pour vérification
-    print("✅ Colonnes disponibles :", df.columns.tolist())
+    # Display available columns for verification
+    print("✅ Available columns:", df.columns.tolist())
 
-    # Sélectionner les colonnes pertinentes (adapté selon les vraies colonnes)
-    columns_to_keep = ["stationcode", "name", "capacity", "coordonnees_geo", "station_opening_hours"]
+    # Select relevant columns (adjusted based on actual columns)
+    columns_to_keep = ["stationcode", "name", "capacity", "station_opening_hours"]
     df = df[columns_to_keep]
+    # print(df[df["capacity"] >= 0])  # Display stations with capacity >= 0
 
-    # Ajouter une colonne "panne" (si la capacité est 0)
+    # Add a "panne" column (if capacity is 0)
     df["panne"] = df["capacity"] == 0
 
-    # Sauvegarder en CSV
+    # Save to CSV
     df.to_csv("data/velib_data.csv", index=False, encoding="utf-8")
 
-    print("✅ Données Vélib récupérées et enregistrées dans 'data/velib_data.csv' !")
+    print("✅ Vélib data retrieved and saved in 'data/velib_data.csv'!")
 
 else:
-    print(f"❌ Erreur lors de la récupération des données (Code {response.status_code})")
+    print(f"❌ Error retrieving data (Code {response.status_code})")
+
+    #print(f"Stations with capacity greater than 0: {df['capacity'] >= 0}")
